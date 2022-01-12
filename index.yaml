@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  gerrit-operator:
+  - apiVersion: v2
+    appVersion: 2.11.0-SNAPSHOT.8
+    created: "2022-01-12T13:45:05.860231551Z"
+    description: A Helm chart for EDP Gerrit Operator
+    digest: 3e56d46e291d6f8b1b43637dd1a6a646f2a4d8af686bb92ac8cbceaf2acd0e65
+    home: https://solutionshub.epam.com/solution/epam-delivery-platform
+    maintainers:
+    - name: EPAM EDP Team
+    name: gerrit-operator
+    sources:
+    - https://github.com/epam/edp-gerrit-operator
+    type: application
+    urls:
+    - https://epam.github.io/edp-helm-charts/gerrit-operator-2.11.0-SNAPSHOT.8.tgz
+    version: 2.11.0-SNAPSHOT.8
+generated: "2022-01-12T13:45:05.857166213Z"
