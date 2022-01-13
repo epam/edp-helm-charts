@@ -1,9 +1,25 @@
 apiVersion: v1
 entries:
+  edp-component-operator:
+  - apiVersion: v2
+    appVersion: 0.11.0-SNAPSHOT.2
+    created: "2022-01-13T12:34:00.480386365Z"
+    description: A Helm chart for EDP Component Operator
+    digest: 0c841ae490bb1b95794a40414cdfff5c4e69106144322c2dfb1886d08ac17d2a
+    home: https://solutionshub.epam.com/solution/epam-delivery-platform
+    maintainers:
+    - name: EPAM EDP Team
+    name: edp-component-operator
+    sources:
+    - https://github.com/epam/edp-component-operator
+    type: application
+    urls:
+    - https://epam.github.io/edp-helm-charts/edp-component-operator-0.11.0-SNAPSHOT.2.tgz
+    version: 0.11.0-SNAPSHOT.2
   gerrit-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.8
-    created: "2022-01-13T11:49:32.110157901Z"
+    created: "2022-01-13T12:34:00.482792919Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: 3e56d46e291d6f8b1b43637dd1a6a646f2a4d8af686bb92ac8cbceaf2acd0e65
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -19,7 +35,7 @@ entries:
   sonar-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.24
-    created: "2022-01-13T11:49:32.111294658Z"
+    created: "2022-01-13T12:34:00.485490606Z"
     description: A Helm chart for EDP Sonar Operator
     digest: 794462a3168e02636c0ef44ceff5a27862ae7eae55b7af7c305d172003022291
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -32,4 +48,4 @@ entries:
     urls:
     - https://epam.github.io/edp-helm-charts/sonar-operator-2.11.0-SNAPSHOT.24.tgz
     version: 2.11.0-SNAPSHOT.24
-generated: "2022-01-13T11:49:32.107197672Z"
+generated: "2022-01-13T12:34:00.479829902Z"
