@@ -3,7 +3,7 @@ entries:
   gerrit-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.8
-    created: "2022-01-12T13:45:05.860231551Z"
+    created: "2022-01-13T11:49:32.110157901Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: 3e56d46e291d6f8b1b43637dd1a6a646f2a4d8af686bb92ac8cbceaf2acd0e65
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -16,4 +16,20 @@ entries:
     urls:
     - https://epam.github.io/edp-helm-charts/gerrit-operator-2.11.0-SNAPSHOT.8.tgz
     version: 2.11.0-SNAPSHOT.8
-generated: "2022-01-12T13:45:05.857166213Z"
+  sonar-operator:
+  - apiVersion: v2
+    appVersion: 2.11.0-SNAPSHOT.24
+    created: "2022-01-13T11:49:32.111294658Z"
+    description: A Helm chart for EDP Sonar Operator
+    digest: 794462a3168e02636c0ef44ceff5a27862ae7eae55b7af7c305d172003022291
+    home: https://solutionshub.epam.com/solution/epam-delivery-platform
+    maintainers:
+    - name: EPAM EDP Team
+    name: sonar-operator
+    sources:
+    - https://github.com/epam/edp-sonar-operator
+    type: application
+    urls:
+    - https://epam.github.io/edp-helm-charts/sonar-operator-2.11.0-SNAPSHOT.24.tgz
+    version: 2.11.0-SNAPSHOT.24
+generated: "2022-01-13T11:49:32.107197672Z"
