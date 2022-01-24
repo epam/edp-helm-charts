@@ -3,7 +3,7 @@ entries:
   admin-console-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.6
-    created: "2022-01-24T11:25:37.059851995Z"
+    created: "2022-01-24T11:45:38.035816633Z"
     description: A Helm chart for EDP Admin Console Operator
     digest: e18e9e9c2ea96e8fdd7199c148b96e4ed13ec2285a06d27159393234ad71a6e1
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -19,7 +19,7 @@ entries:
   codebase-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.8
-    created: "2022-01-24T11:25:37.060663955Z"
+    created: "2022-01-24T11:45:38.037699631Z"
     description: A Helm chart for EDP Codebase Operator
     digest: 4ae2f44cc7fdd84612fb2aa57b3384d656e93a23b0e1b44c738e323df6a75485
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -35,7 +35,7 @@ entries:
   edp-component-operator:
   - apiVersion: v2
     appVersion: 0.11.0-SNAPSHOT.2
-    created: "2022-01-24T11:25:37.060911824Z"
+    created: "2022-01-24T11:45:38.037998345Z"
     description: A Helm chart for EDP Component Operator
     digest: 0c841ae490bb1b95794a40414cdfff5c4e69106144322c2dfb1886d08ac17d2a
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -50,8 +50,68 @@ entries:
     version: 0.11.0-SNAPSHOT.2
   edp-install:
   - apiVersion: v2
+    appVersion: 2.11.0-SNAPSHOT.32
+    created: "2022-01-24T11:45:38.262573169Z"
+    dependencies:
+    - condition: keycloak-operator.enabled
+      name: keycloak-operator
+      repository: '@epamedp'
+      version: 1.10.0
+    - condition: codebase-operator.enabled
+      name: codebase-operator
+      repository: '@epamedp'
+      version: 2.10.0
+    - condition: jenkins-operator.enabled
+      name: jenkins-operator
+      repository: '@epamedp'
+      version: 2.10.0
+    - condition: edp-component-operator.enabled
+      name: edp-component-operator
+      repository: '@epamedp'
+      version: 0.10.0
+    - condition: cd-pipeline-operator.enabled
+      name: cd-pipeline-operator
+      repository: '@epamedp'
+      version: 2.10.0
+    - condition: nexus-operator.enabled
+      name: nexus-operator
+      repository: '@epamedp'
+      version: 2.10.0
+    - condition: sonar-operator.enabled
+      name: sonar-operator
+      repository: '@epamedp'
+      version: 2.10.0
+    - condition: admin-console-operator.enabled
+      name: admin-console-operator
+      repository: '@epamedp'
+      version: 2.10.0
+    - condition: gerrit-operator.enabled
+      name: gerrit-operator
+      repository: '@epamedp'
+      version: 2.10.0
+    - condition: reconciler.enabled
+      name: reconciler
+      repository: '@epamedp'
+      version: 2.10.0
+    - condition: perf-operator.enabled
+      name: perf-operator
+      repository: '@epamedp'
+      version: 2.10.0
+    description: A Helm chart for EDP Install
+    digest: ee41b27bf5412ca7af3bd64a0953c4fb2cc146d5d031d8055c69207d15087dab
+    home: https://solutionshub.epam.com/solution/epam-delivery-platform
+    maintainers:
+    - name: EPAM EDP Team
+    name: edp-install
+    sources:
+    - https://github.com/epam/edp-install
+    type: application
+    urls:
+    - https://epam.github.io/edp-helm-charts/edp-install-2.11.0-SNAPSHOT.32.tgz
+    version: 2.11.0-SNAPSHOT.32
+  - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.31
-    created: "2022-01-24T11:25:37.301298755Z"
+    created: "2022-01-24T11:45:38.249784528Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -111,7 +171,7 @@ entries:
     version: 2.11.0-SNAPSHOT.31
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.30
-    created: "2022-01-24T11:25:37.286055615Z"
+    created: "2022-01-24T11:45:38.239993178Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -171,7 +231,7 @@ entries:
     version: 2.11.0-SNAPSHOT.30
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.29
-    created: "2022-01-24T11:25:37.266817806Z"
+    created: "2022-01-24T11:45:38.226640582Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -231,7 +291,7 @@ entries:
     version: 2.11.0-SNAPSHOT.29
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.28
-    created: "2022-01-24T11:25:37.256156465Z"
+    created: "2022-01-24T11:45:38.213000494Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -291,7 +351,7 @@ entries:
     version: 2.11.0-SNAPSHOT.28
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.27
-    created: "2022-01-24T11:25:37.238712754Z"
+    created: "2022-01-24T11:45:38.200528697Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -351,7 +411,7 @@ entries:
     version: 2.11.0-SNAPSHOT.27
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.26
-    created: "2022-01-24T11:25:37.226439611Z"
+    created: "2022-01-24T11:45:38.190435618Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -411,7 +471,7 @@ entries:
     version: 2.11.0-SNAPSHOT.26
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.25
-    created: "2022-01-24T11:25:37.211939096Z"
+    created: "2022-01-24T11:45:38.177368756Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -471,7 +531,7 @@ entries:
     version: 2.11.0-SNAPSHOT.25
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.24
-    created: "2022-01-24T11:25:37.199042648Z"
+    created: "2022-01-24T11:45:38.164419822Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -531,7 +591,7 @@ entries:
     version: 2.11.0-SNAPSHOT.24
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.23
-    created: "2022-01-24T11:25:37.188373086Z"
+    created: "2022-01-24T11:45:38.153506615Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -591,7 +651,7 @@ entries:
     version: 2.11.0-SNAPSHOT.23
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.22
-    created: "2022-01-24T11:25:37.174891515Z"
+    created: "2022-01-24T11:45:38.140077511Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -651,7 +711,7 @@ entries:
     version: 2.11.0-SNAPSHOT.22
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.21
-    created: "2022-01-24T11:25:37.161923083Z"
+    created: "2022-01-24T11:45:38.128696593Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -711,7 +771,7 @@ entries:
     version: 2.11.0-SNAPSHOT.21
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.20
-    created: "2022-01-24T11:25:37.143474765Z"
+    created: "2022-01-24T11:45:38.117600762Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -771,7 +831,7 @@ entries:
     version: 2.11.0-SNAPSHOT.20
   - apiVersion: v2
     appVersion: 2.10.0-RC.11
-    created: "2022-01-24T11:25:37.087026641Z"
+    created: "2022-01-24T11:45:38.061699345Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -831,7 +891,7 @@ entries:
     version: 2.10.0-RC.11
   - apiVersion: v2
     appVersion: 2.10.0-RC.10
-    created: "2022-01-24T11:25:37.073880455Z"
+    created: "2022-01-24T11:45:38.048837175Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -891,7 +951,7 @@ entries:
     version: 2.10.0-RC.10
   - apiVersion: v2
     appVersion: 2.10.0-RC.9
-    created: "2022-01-24T11:25:37.124046649Z"
+    created: "2022-01-24T11:45:38.10524169Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -951,7 +1011,7 @@ entries:
     version: 2.10.0-RC.9
   - apiVersion: v2
     appVersion: 2.10.0-RC.8
-    created: "2022-01-24T11:25:37.110533366Z"
+    created: "2022-01-24T11:45:38.094939898Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -1011,7 +1071,7 @@ entries:
     version: 2.10.0-RC.8
   - apiVersion: v2
     appVersion: 2.10.0-RC.7
-    created: "2022-01-24T11:25:37.097434969Z"
+    created: "2022-01-24T11:45:38.074890679Z"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -1071,7 +1131,7 @@ entries:
     version: 2.10.0-RC.7
   edp-jenkins-go-agent:
   - apiVersion: v1
-    created: "2022-01-24T11:25:37.302119966Z"
+    created: "2022-01-24T11:45:38.263346455Z"
     description: Helm chart for other application/service deploying
     digest: 180d2823d11549a61a1807748ce029c41dec0217cc86f934c2d64815e3057083
     home: https://www.epam.com
@@ -1082,7 +1142,7 @@ entries:
     - https://epam.github.io/edp-helm-charts/edp-jenkins-go-agent-1.0.0-SNAPSHOT.11.tgz
     version: 1.0.0-SNAPSHOT.11
   - apiVersion: v1
-    created: "2022-01-24T11:25:37.301681473Z"
+    created: "2022-01-24T11:45:38.262932103Z"
     description: Helm chart for other application/service deploying
     digest: a7d7da9e148ab3fa172a47874df9c0368395dc4e0e7c4852aa336cf4a7f92883
     home: https://www.epam.com
@@ -1095,7 +1155,7 @@ entries:
   gerrit-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.17
-    created: "2022-01-24T11:25:37.311307316Z"
+    created: "2022-01-24T11:45:38.270084924Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: e13eadb4140d24eb95e43ff86353967f8c145a6b217c532a2db7fdc39e550537
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1110,7 +1170,7 @@ entries:
     version: 2.11.0-SNAPSHOT.17
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.16
-    created: "2022-01-24T11:25:37.308374268Z"
+    created: "2022-01-24T11:45:38.268550479Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: fc0629121e716dd7be04b49148a93d63c3cb7c70660990d4b966a166a96dc25a
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1125,7 +1185,7 @@ entries:
     version: 2.11.0-SNAPSHOT.16
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.15
-    created: "2022-01-24T11:25:37.306220322Z"
+    created: "2022-01-24T11:45:38.267532706Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: fe5a1096e9f8ed255348c43a70109e7b466f64209a84a2f519b120ed7d7f0611
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1140,7 +1200,7 @@ entries:
     version: 2.11.0-SNAPSHOT.15
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.14
-    created: "2022-01-24T11:25:37.305109252Z"
+    created: "2022-01-24T11:45:38.266453117Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: c8e63e5d184d20568bcae1165d8c6d3d61d798d583f56f15f15e28cd9099e4db
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1155,7 +1215,7 @@ entries:
     version: 2.11.0-SNAPSHOT.14
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.11
-    created: "2022-01-24T11:25:37.304136515Z"
+    created: "2022-01-24T11:45:38.265438387Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: b207495ba5f1b0b72de32a73e3ed560d29561be6fb4400e8d4c8e98b9a50b677
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1170,7 +1230,7 @@ entries:
     version: 2.11.0-SNAPSHOT.11
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.10
-    created: "2022-01-24T11:25:37.303134393Z"
+    created: "2022-01-24T11:45:38.264407858Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: 3341b2bd0cf15432c34c7722e4ce8f478fc1a7c06e575e1052420822c1087514
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1185,7 +1245,7 @@ entries:
     version: 2.11.0-SNAPSHOT.10
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.9
-    created: "2022-01-24T11:25:37.313817334Z"
+    created: "2022-01-24T11:45:38.274526313Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: a3e5e8838815bad9495ac84cab00e1f1ddaf884a9029113bf4926dc140df9a08
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1200,7 +1260,7 @@ entries:
     version: 2.11.0-SNAPSHOT.9
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.8
-    created: "2022-01-24T11:25:37.312762477Z"
+    created: "2022-01-24T11:45:38.272232905Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: 3e56d46e291d6f8b1b43637dd1a6a646f2a4d8af686bb92ac8cbceaf2acd0e65
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1216,7 +1276,7 @@ entries:
   jenkins-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.19
-    created: "2022-01-24T11:25:37.332096969Z"
+    created: "2022-01-24T11:45:38.290906623Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 8444ef3291c4663affb63347da9af3a9166744b6ae499c29bfdb5b5574eedbba
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1231,7 +1291,7 @@ entries:
     version: 2.11.0-SNAPSHOT.19
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.18
-    created: "2022-01-24T11:25:37.331013667Z"
+    created: "2022-01-24T11:45:38.28976064Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 1a91d93d4fdb1910481d005c4d80eaa819fde643ac39833756a34fa9f600f843
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1246,7 +1306,7 @@ entries:
     version: 2.11.0-SNAPSHOT.18
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.17
-    created: "2022-01-24T11:25:37.329866933Z"
+    created: "2022-01-24T11:45:38.288397645Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 490efbd41dfb8012abc5b6f93b04a43d76df8553b9b5b39bdfe181cdce32284a
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1261,7 +1321,7 @@ entries:
     version: 2.11.0-SNAPSHOT.17
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.16
-    created: "2022-01-24T11:25:37.328698059Z"
+    created: "2022-01-24T11:45:38.285693835Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 02b7fe27ead7b2a02cfbc221efabc1241ea350ebb55853bff78e6163615f4bf0
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1276,7 +1336,7 @@ entries:
     version: 2.11.0-SNAPSHOT.16
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.15
-    created: "2022-01-24T11:25:37.327634751Z"
+    created: "2022-01-24T11:45:38.283318762Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 3d6a9ad4e00d25e6d9665281d6ce69d86a0e72cd53a26920921b77a0ba0f7d83
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1291,7 +1351,7 @@ entries:
     version: 2.11.0-SNAPSHOT.15
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.14
-    created: "2022-01-24T11:25:37.324771856Z"
+    created: "2022-01-24T11:45:38.282268082Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: afc3f02c818d482a47c0e950c6d43a348c135db68bf082494c2759f0c3d0d142
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1306,7 +1366,7 @@ entries:
     version: 2.11.0-SNAPSHOT.14
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.13
-    created: "2022-01-24T11:25:37.32274962Z"
+    created: "2022-01-24T11:45:38.281177705Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 0573066ea09de0bb8bc84e5f8a4b98b0a10a5345226af2a0dbdd3abf99da3747
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1321,7 +1381,7 @@ entries:
     version: 2.11.0-SNAPSHOT.13
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.12
-    created: "2022-01-24T11:25:37.321605427Z"
+    created: "2022-01-24T11:45:38.280170899Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 5abed2021cc8829c0a5acb7df5b3488679de6e61ce1a37c78336c8d2fa996cba
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1336,7 +1396,7 @@ entries:
     version: 2.11.0-SNAPSHOT.12
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.11
-    created: "2022-01-24T11:25:37.318663037Z"
+    created: "2022-01-24T11:45:38.279087385Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: aced46102df9344f492b8900ae6bcd805808bdc82d1c2a1379c9fbbb6f96525d
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1351,7 +1411,7 @@ entries:
     version: 2.11.0-SNAPSHOT.11
   - apiVersion: v2
     appVersion: 2.10.0-RC.7
-    created: "2022-01-24T11:25:37.317535492Z"
+    created: "2022-01-24T11:45:38.278018728Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 6169d507bce2608bd3bca8032fc641704cdabdcab4bebc58a392ade119e9b83f
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1366,7 +1426,7 @@ entries:
     version: 2.10.0-RC.7
   - apiVersion: v2
     appVersion: 2.10.0-RC.6
-    created: "2022-01-24T11:25:37.316453964Z"
+    created: "2022-01-24T11:45:38.276894782Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 5594f291fe66746c9aca654c2d31ec4e4130f8ea64756c6b16d816e21cc01b2f
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1381,7 +1441,7 @@ entries:
     version: 2.10.0-RC.6
   - apiVersion: v2
     appVersion: 2.10.0-RC.5
-    created: "2022-01-24T11:25:37.315347564Z"
+    created: "2022-01-24T11:45:38.275857222Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 26ccd81294d919b53ed60728ca8f8d28c5baa44b18ac19e56f52d1acc3327115
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1397,7 +1457,7 @@ entries:
   keycloak-operator:
   - apiVersion: v2
     appVersion: 1.11.0-SNAPSHOT.2
-    created: "2022-01-24T11:25:37.333040155Z"
+    created: "2022-01-24T11:45:38.291693122Z"
     description: A Helm chart for EDP Keycloak Operator
     digest: caf91e3f0e5c351a6cec1639b65397da04eb6751afd02a88f85008a773fc9821
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1413,7 +1473,7 @@ entries:
   nexus-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.11
-    created: "2022-01-24T11:25:37.335486702Z"
+    created: "2022-01-24T11:45:38.294182332Z"
     description: A Helm chart for EDP Nexus Operator
     digest: 7ada76541e675d6aa8d6e9e77269a5e499269a1973bb0a2fbd3ed39f2b6f9d7d
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1428,7 +1488,7 @@ entries:
     version: 2.11.0-SNAPSHOT.11
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.10
-    created: "2022-01-24T11:25:37.334327269Z"
+    created: "2022-01-24T11:45:38.29284101Z"
     description: A Helm chart for EDP Nexus Operator
     digest: fa30cf8291672376d0dff80d293aabe40c0e55dfe95b7dbaa86b42c31c1fe2ba
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1443,7 +1503,7 @@ entries:
     version: 2.11.0-SNAPSHOT.10
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.9
-    created: "2022-01-24T11:25:37.351326965Z"
+    created: "2022-01-24T11:45:38.303196078Z"
     description: A Helm chart for EDP Nexus Operator
     digest: a507adcbac2f30808a4510955fc60af27c7454df684518d157d6591b4902065e
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1458,7 +1518,7 @@ entries:
     version: 2.11.0-SNAPSHOT.9
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.8
-    created: "2022-01-24T11:25:37.35003192Z"
+    created: "2022-01-24T11:45:38.301768688Z"
     description: A Helm chart for EDP Nexus Operator
     digest: 5aad730fdb4f2d3a3e518cbc9483e355117b427650dcb126101f73b803359461
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1473,7 +1533,7 @@ entries:
     version: 2.11.0-SNAPSHOT.8
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.7
-    created: "2022-01-24T11:25:37.347845055Z"
+    created: "2022-01-24T11:45:38.297966388Z"
     description: A Helm chart for EDP Nexus Operator
     digest: 1796dd72a3ccfa47704286ef665b067f973f0cb40e56c52e28e9b1b595811534
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1488,7 +1548,7 @@ entries:
     version: 2.11.0-SNAPSHOT.7
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.6
-    created: "2022-01-24T11:25:37.343857674Z"
+    created: "2022-01-24T11:45:38.296659108Z"
     description: A Helm chart for EDP Nexus Operator
     digest: 6e924dee6ee252f26c416da0716c2f8be7150ef12af47b227882b1f75cae6c60
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1503,7 +1563,7 @@ entries:
     version: 2.11.0-SNAPSHOT.6
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.5
-    created: "2022-01-24T11:25:37.336659897Z"
+    created: "2022-01-24T11:45:38.295340364Z"
     description: A Helm chart for EDP Nexus Operator
     digest: 24b98e8e75be17e2dfe4e667f6d7fd549bbc2e17e78040d128f8e17b45c5eb49
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1519,7 +1579,7 @@ entries:
   sonar-operator:
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.25
-    created: "2022-01-24T11:25:37.355517667Z"
+    created: "2022-01-24T11:45:38.306197271Z"
     description: A Helm chart for EDP Sonar Operator
     digest: d05174a7ab9bd96a63992eb4c5e2d41b30a0f6cd7288dbc254a4d52eb5cd0491
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1534,7 +1594,7 @@ entries:
     version: 2.11.0-SNAPSHOT.25
   - apiVersion: v2
     appVersion: 2.11.0-SNAPSHOT.24
-    created: "2022-01-24T11:25:37.352665696Z"
+    created: "2022-01-24T11:45:38.304943827Z"
     description: A Helm chart for EDP Sonar Operator
     digest: 794462a3168e02636c0ef44ceff5a27862ae7eae55b7af7c305d172003022291
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1547,4 +1607,4 @@ entries:
     urls:
     - https://epam.github.io/edp-helm-charts/sonar-operator-2.11.0-SNAPSHOT.24.tgz
     version: 2.11.0-SNAPSHOT.24
-generated: "2022-01-24T11:25:37.058665396Z"
+generated: "2022-01-24T11:45:38.032662432Z"
