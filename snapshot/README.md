@@ -1,6 +1,6 @@
 # EPAM Delivery Platform - Helm Charts Repository
 
-![https://raw.githubusercontent.com/epam/edp-install/master/docs/assets/logo.png](./images/logo.png)
+![https://raw.githubusercontent.com/epam/edp-install/master/docs/assets/logo.png](../images/logo.png)
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache.2-green.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/epmdedp)](https://artifacthub.io/packages/search?repo=epmdedp)
@@ -13,13 +13,6 @@ Welcome to the EPAM Delivery Platform charts repository.
 
 
 ## Add The Repository
-
-```bash
-helm repo add epamedp https://epam.github.io/edp-helm-charts/stable
-helm repo update
-```
-
-or
 
 ```bash
 helm repo add epamedp https://epam.github.io/edp-helm-charts/snapshot
