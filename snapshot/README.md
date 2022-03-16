@@ -15,7 +15,7 @@ Welcome to the EPAM Delivery Platform charts repository.
 ## Add The Repository
 
 ```bash
-helm repo add epamedp https://epam.github.io/edp-helm-charts/snapshot
+helm repo add epamedp-snapshot https://epam.github.io/edp-helm-charts/snapshot
 helm repo update
 ```
 
