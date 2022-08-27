@@ -44,7 +44,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.208589551Z"
+    created: "2022-08-27T11:01:00.123573+03:00"
     description: A Helm chart for EDP Admin Console Operator
     digest: a8b9fda839dc232a0f2eda502607013f8e6d807d4c42882e4cff948d365b41a7
     home: https://epam.github.io/edp-install/
@@ -116,7 +116,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.207250197Z"
+    created: "2022-08-27T11:01:00.122665+03:00"
     description: A Helm chart for EDP Admin Console Operator
     digest: d0ced37dbadd325b13c1718ad0f729bda96cc21511358ccbe9db92d4a6d1c27b
     home: https://epam.github.io/edp-install/
@@ -141,7 +141,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.204407688Z"
+    created: "2022-08-27T11:01:00.121761+03:00"
     description: A Helm chart for EDP Admin Console Operator
     digest: 175de5390e1e44ed86f7d1678af72306189138cdb9c3aa5047d9c856de6b27b7
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -215,7 +215,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.210733612Z"
+    created: "2022-08-27T11:01:00.125663+03:00"
     description: A Helm chart for EDP CD Pipeline Operator
     digest: ecb0763220edf0e1b605e7027772881ffa2d0ddfc4bcf54704961c102da3317c
     home: https://epam.github.io/edp-install/
@@ -298,7 +298,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.209943232Z"
+    created: "2022-08-27T11:01:00.124982+03:00"
     description: A Helm chart for EDP CD Pipeline Operator
     digest: 380834fd2cf613736eb14702bc8ae6b94dabb8da8724698ed1eb793d2a26e707
     home: https://epam.github.io/edp-install/
@@ -323,7 +323,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.209151512Z"
+    created: "2022-08-27T11:01:00.124126+03:00"
     description: A Helm chart for EDP CD Pipeline Operator
     digest: 469faa80562ae2676cda297226c0eb9a7f00456bd2ecade89063a2dbad6c035a
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -468,7 +468,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.13.0
-    created: "2022-08-27T07:37:49.215691982Z"
+    created: "2022-08-27T11:01:00.130078+03:00"
     description: A Helm chart for EDP Codebase Operator
     digest: ade57e906ece3e984933a8ddb6da472e7b7da0bdf6c25c8857368e20cbb8572a
     home: https://epam.github.io/edp-install/
@@ -624,7 +624,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.214334961Z"
+    created: "2022-08-27T11:01:00.128847+03:00"
     description: A Helm chart for EDP Codebase Operator
     digest: 6a80f0f2fe43a9a3dda3af91005835b1b7e0087d486c29b5381c102fb38bcf12
     home: https://epam.github.io/edp-install/
@@ -780,7 +780,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.213196758Z"
+    created: "2022-08-27T11:01:00.128013+03:00"
     description: A Helm chart for EDP Codebase Operator
     digest: b805c69ec68ecd5e25653ab530c8966751d539c3392de87eedebcb6d86e2d748
     home: https://epam.github.io/edp-install/
@@ -815,7 +815,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.1
-    created: "2022-08-27T07:37:49.212193601Z"
+    created: "2022-08-27T11:01:00.127213+03:00"
     description: A Helm chart for EDP Codebase Operator
     digest: fc7b23826905e2040a73f6aeb81580720288f1c7e005a0f21aee195a1c6158c5
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -830,7 +830,7 @@ entries:
     version: 2.10.1
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.211443075Z"
+    created: "2022-08-27T11:01:00.126396+03:00"
     description: A Helm chart for EDP Codebase Operator
     digest: 217c9729c9d37d8343c649d46ce6cecddb45b9196f1352d213f1b7aaa02c98e2
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -888,7 +888,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-08-27T07:37:49.219364218Z"
+    created: "2022-08-27T11:01:00.133192+03:00"
     description: A Helm chart for EDP Argo CD Operator
     digest: 2e8f2663bdd7683543dbcf04133dcd2a2f83a48bfd7a44d4bd0fefb90d48b205
     home: https://epam.github.io/edp-install/
@@ -956,7 +956,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.1
-    created: "2022-08-27T07:37:49.217546824Z"
+    created: "2022-08-27T11:01:00.132365+03:00"
     description: A Helm chart for EDP Argo CD Operator
     digest: ea1085e62db9657d54fe21eed93424265c74b74023b5339458ac62bf2fe281bb
     home: https://epam.github.io/edp-install/
@@ -1024,7 +1024,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-08-27T07:37:49.21659398Z"
+    created: "2022-08-27T11:01:00.130762+03:00"
     description: A Helm chart for EDP Argo CD Operator
     digest: d6382aee8cd6adf8f873e0115e202dde32dbd0ed2b8b4fc3646ee13690faed6a
     home: https://epam.github.io/edp-install/
@@ -1103,7 +1103,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.12.0
-    created: "2022-08-27T07:37:49.221674266Z"
+    created: "2022-08-27T11:01:00.134617+03:00"
     description: A Helm chart for EDP Component Operator
     digest: c73c373242e77cc0a694bfb002b0b3272d21126481611d4e4cf2fa44f5e6df7a
     home: https://epam.github.io/edp-install/
@@ -1179,7 +1179,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.11.0
-    created: "2022-08-27T07:37:49.220775616Z"
+    created: "2022-08-27T11:01:00.133924+03:00"
     description: A Helm chart for EDP Component Operator
     digest: 714351ad6b353ae828e7bc75f3a850244b2c48ef7f07a21d14405b347a724423
     home: https://epam.github.io/edp-install/
@@ -1203,7 +1203,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: 0.10.0
-    created: "2022-08-27T07:37:49.219883772Z"
+    created: "2022-08-27T11:01:00.133517+03:00"
     description: A Helm chart for EDP Component Operator
     digest: c2c0423c0ad9a773d0feb50a34d22a20a3240fc49d391b884a7e466b8a119aa2
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -1231,7 +1231,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-08-27T07:37:49.224495781Z"
+    created: "2022-08-27T11:01:00.13639+03:00"
     description: A Helm chart for EDP Headlamp
     digest: 661a17146fb89eb9a1e1b7aef94433180afb370755173e1bed36b5f9d175c967
     home: https://epam.github.io/edp-install/
@@ -1271,7 +1271,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-08-27T07:37:49.223695936Z"
+    created: "2022-08-27T11:01:00.135827+03:00"
     description: A Helm chart for EDP Headlamp
     digest: cbeabb75001517000bb34131febdb868e6777258cb81c6c71a954d311f743251
     home: https://epam.github.io/edp-install/
@@ -1298,126 +1298,6 @@ entries:
     - https://epam.github.io/edp-helm-charts/stable/packages/edp-headlamp-0.1.0.tgz
     version: 0.1.0
   edp-install:
-  - annotations:
-      artifacthub.io/images: |
-        - name: keycloak-operator:1.12.0
-          image: epamedp/keycloak-operator:1.12.0
-        - name: codebase-operator:2.13.0
-          image: epamedp/codebase-operator:2.13.0
-        - name: jenkins-operator:2.12.0
-          image: epamedp/jenkins-operator:2.12.0
-        - name: cd-pipeline-operator:2.12.0
-          image: epamedp/cd-pipeline-operator:2.12.0
-        - name: nexus-operator:2.12.0
-          image: epamedp/nexus-operator:2.12.0
-        - name: sonar-operator:2.12.0
-          image: epamedp/sonar-operator:2.12.0
-        - name: admin-console-operator:2.12.0
-          image: epamedp/admin-console-operator:2.12.0
-        - name: gerrit-operator:2.12.0
-          image: epamedp/gerrit-operator:2.12.0
-        - name: reconciler:2.12.0
-          image: epamedp/reconciler:2.12.0
-        - name: edp-headlamp:0.2.0
-          image: epamedp/edp-headlamp:0.2.0
-        - name: edp-argocd-operator:0.2.0
-          image: epamedp/edp-argocd-operator:0.2.0
-        - name: perf-operator:2.12.0
-          image: epamedp/perf-operator:2.12.0
-        - name: postgres:9.6
-          image: postgres:9.6
-        - name: executor:v1.8.0
-          image: gcr.io/kaniko-project/executor:v1.8.0
-        - name: busybox:1.35.0
-          image: busybox:1.35.0
-        - name: aws-cli:2.5.2
-          image: amazon/aws-cli:2.5.2
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/links: |
-        - name: EDP Documentation
-          url: https://epam.github.io/edp-install/
-        - name: EPAM SolutionHub
-          url: https://solutionshub.epam.com/solution/epam-delivery-platform
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Full Lifecycle
-    apiVersion: v2
-    appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.286129097Z"
-    dependencies:
-    - condition: keycloak-operator.enabled
-      name: keycloak-operator
-      repository: '@epamedp'
-      version: 1.12.0
-    - condition: codebase-operator.enabled
-      name: codebase-operator
-      repository: '@epamedp'
-      version: 2.13.0
-    - condition: jenkins-operator.enabled
-      name: jenkins-operator
-      repository: '@epamedp'
-      version: 2.12.0
-    - condition: edp-component-operator.enabled
-      name: edp-component-operator
-      repository: '@epamedp'
-      version: 0.12.0
-    - condition: edp-headlamp.enabled
-      name: edp-headlamp
-      repository: '@epamedp'
-      version: 0.2.0
-    - condition: edp-argocd-operator.enabled
-      name: edp-argocd-operator
-      repository: '@epamedp'
-      version: 0.2.0
-    - condition: cd-pipeline-operator.enabled
-      name: cd-pipeline-operator
-      repository: '@epamedp'
-      version: 2.12.0
-    - condition: nexus-operator.enabled
-      name: nexus-operator
-      repository: '@epamedp'
-      version: 2.12.0
-    - condition: sonar-operator.enabled
-      name: sonar-operator
-      repository: '@epamedp'
-      version: 2.12.0
-    - condition: admin-console-operator.enabled
-      name: admin-console-operator
-      repository: '@epamedp'
-      version: 2.12.0
-    - condition: gerrit-operator.enabled
-      name: gerrit-operator
-      repository: '@epamedp'
-      version: 2.12.0
-    - condition: reconciler.enabled
-      name: reconciler
-      repository: '@epamedp'
-      version: 2.12.0
-    - condition: perf-operator.enabled
-      name: perf-operator
-      repository: '@epamedp'
-      version: 2.12.0
-    description: A Helm chart for EDP Install
-    digest: 6ead2b11af94929893df52aae639f40b91c3edcece4a3908f941644a038dceec
-    home: https://epam.github.io/edp-install/
-    icon: https://epam.github.io/edp-install/assets/logo.png
-    keywords:
-    - edp
-    - install
-    - application
-    - pipelines
-    maintainers:
-    - email: SupportEPMD-EDP@epam.com
-      name: epmd-edp
-      url: https://solutionshub.epam.com/solution/epam-delivery-platform
-    - name: sergk
-      url: https://github.com/SergK
-    name: edp-install
-    sources:
-    - https://github.com/epam/edp-install
-    type: application
-    urls:
-    - https://epam.github.io/edp-helm-charts/stable/packages/edp-install-2.12.0.tgz
-    version: 2.12.0
   - annotations:
       artifacthub.io/images: |
         - name: keycloak-operator:1.11.0
@@ -1458,7 +1338,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.1
-    created: "2022-08-27T07:37:49.265896901Z"
+    created: "2022-08-27T11:01:00.162856+03:00"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -1558,7 +1438,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.249243855Z"
+    created: "2022-08-27T11:01:00.153227+03:00"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -1628,7 +1508,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.2
-    created: "2022-08-27T07:37:49.233849435Z"
+    created: "2022-08-27T11:01:00.14267+03:00"
     dependencies:
     - condition: keycloak-operator.enabled
       name: keycloak-operator
@@ -1688,7 +1568,7 @@ entries:
     version: 2.10.2
   - apiVersion: v2
     appVersion: 2.9.0
-    created: "2022-08-27T07:37:49.319299322Z"
+    created: "2022-08-27T11:01:00.182976+03:00"
     dependencies:
     - name: keycloak-operator
       repository: '@epamedp'
@@ -1759,7 +1639,7 @@ entries:
     version: 2.9.0
   - apiVersion: v2
     appVersion: 2.8.4
-    created: "2022-08-27T07:37:49.305344712Z"
+    created: "2022-08-27T11:01:00.175961+03:00"
     dependencies:
     - name: keycloak-operator
       repository: '@epamedp'
@@ -1830,7 +1710,7 @@ entries:
     version: 2.8.4
   - apiVersion: v2
     appVersion: 2.7.8
-    created: "2022-08-27T07:37:49.296342102Z"
+    created: "2022-08-27T11:01:00.169943+03:00"
     dependencies:
     - name: keycloak-operator
       repository: '@epamedp'
@@ -2028,7 +1908,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.322837998Z"
+    created: "2022-08-27T11:01:00.185653+03:00"
     description: A Helm chart for EDP Gerrit Operator
     digest: 51976f1302fdab066e9d836a46cc8d24f4d43dd7de83ff1ce3a2d1b1414ccbf8
     home: https://epam.github.io/edp-install/
@@ -2159,7 +2039,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.321471757Z"
+    created: "2022-08-27T11:01:00.184696+03:00"
     description: A Helm chart for EDP Gerrit Operator
     digest: 2263e94027b315d4b25be4f6a66dcdcbbc3ac1acb6b18fbbb789cb32b6f6d683
     home: https://epam.github.io/edp-install/
@@ -2184,7 +2064,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.320270827Z"
+    created: "2022-08-27T11:01:00.183722+03:00"
     description: A Helm chart for EDP Gerrit Operator
     digest: 2d75317678c61828f35e8a68fd38fc5bdf64bfb0e1ac58959802fe057aa000ce
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -2359,7 +2239,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.333949457Z"
+    created: "2022-08-27T11:01:00.190344+03:00"
     description: A Helm chart for EDP Jenkins Operator
     digest: db928380c76ed6753f33fedeeffb282317f659f66a643a262a8018a12215d10e
     home: https://epam.github.io/edp-install/
@@ -2550,7 +2430,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.1
-    created: "2022-08-27T07:37:49.329902539Z"
+    created: "2022-08-27T11:01:00.189137+03:00"
     description: A Helm chart for EDP Jenkins Operator
     digest: eace56b3ff2a8876ad815398b98ffd432a5bdde702bf244825f7f79b3725048e
     home: https://epam.github.io/edp-install/
@@ -2713,7 +2593,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.326618062Z"
+    created: "2022-08-27T11:01:00.188147+03:00"
     description: A Helm chart for EDP Jenkins Operator
     digest: 6f9d235014a7ec13a55119c073007ede1f08ae4c9b2c1357fdf5299d3cc23152
     home: https://epam.github.io/edp-install/
@@ -2738,7 +2618,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.1
-    created: "2022-08-27T07:37:49.325149656Z"
+    created: "2022-08-27T11:01:00.187142+03:00"
     description: A Helm chart for EDP Jenkins Operator
     digest: 313451488b7440e7873b717c87dd0c0604f8e21dbff96445c7d4e31b5f3e6e5a
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -2753,7 +2633,7 @@ entries:
     version: 2.10.1
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.324112182Z"
+    created: "2022-08-27T11:01:00.186367+03:00"
     description: A Helm chart for EDP Jenkins Operator
     digest: bebd7dac49ebabb5e8e1ba364a02a4ee741657e263889366d0d2acd2d7325c9a
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -3046,7 +2926,7 @@ entries:
       artifacthub.io/operatorCapabilities: Auto Pilot
     apiVersion: v2
     appVersion: 1.12.0
-    created: "2022-08-27T07:37:49.337590058Z"
+    created: "2022-08-27T11:01:00.193985+03:00"
     description: A Helm chart for EDP Keycloak Operator
     digest: bf90895cc6b66161204e66407f820f9d00a7f5c90fa0d20a8c704c0bebbc0db3
     home: https://epam.github.io/edp-install/
@@ -3314,7 +3194,7 @@ entries:
       artifacthub.io/operatorCapabilities: Auto Pilot
     apiVersion: v2
     appVersion: 1.11.0
-    created: "2022-08-27T07:37:49.336133824Z"
+    created: "2022-08-27T11:01:00.19185+03:00"
     description: A Helm chart for EDP Keycloak Operator
     digest: 4e8d39a1d6eed36a3a086ac8c10be4a880e5039912edefa2c318eb1766053dad
     home: https://epam.github.io/edp-install/
@@ -3345,7 +3225,7 @@ entries:
     version: 1.11.0
   - apiVersion: v2
     appVersion: 1.10.0
-    created: "2022-08-27T07:37:49.334815157Z"
+    created: "2022-08-27T11:01:00.191056+03:00"
     description: A Helm chart for EDP Keycloak Operator
     digest: eda03110dbac94bcdcadd6cafb1e4ad3cea3848a2215e0094ecef75ea9486732
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -3419,7 +3299,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.341400951Z"
+    created: "2022-08-27T11:01:00.197144+03:00"
     description: A Helm chart for EDP Nexus Operator
     digest: 67b7b70bb1fb8ca5f653d29602953594b60ede29eb08d59011b9317eef8d9f78
     home: https://epam.github.io/edp-install/
@@ -3499,7 +3379,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.33990093Z"
+    created: "2022-08-27T11:01:00.196161+03:00"
     description: A Helm chart for EDP Nexus Operator
     digest: ce84671d71c25210cf3d2000a057ef2d9d02a09dc4f6b79ae904ad84e356fd6d
     home: https://epam.github.io/edp-install/
@@ -3525,7 +3405,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.338641519Z"
+    created: "2022-08-27T11:01:00.194924+03:00"
     description: A Helm chart for EDP Nexus Operator
     digest: 229c5c0bc6ba4069ea444b3f5a65a4db7de985d3b1271d6c124b601a80acb893
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -3586,7 +3466,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.344769916Z"
+    created: "2022-08-27T11:01:00.198867+03:00"
     description: A Helm chart for EDP Perf Operator
     digest: aeb6b03e9a4eb6352e7a55e73f343dbdfb55167aae3a96501b70b72f9d9e656e
     home: https://epam.github.io/edp-install/
@@ -3646,7 +3526,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.34273634Z"
+    created: "2022-08-27T11:01:00.1983+03:00"
     description: A Helm chart for EDP Perf Operator
     digest: 33df33a0ae891107974c93d2ef4db23852b1c531d28acb98d2fec5011d717345
     home: https://epam.github.io/edp-install/
@@ -3671,7 +3551,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.341971506Z"
+    created: "2022-08-27T11:01:00.197625+03:00"
     description: A Helm chart for EDP Perf Operator
     digest: 92837975ff75a7ab8646def388cdf8267ea750fb9fa551e17ad4956c3977ca00
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -3701,7 +3581,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.348655129Z"
+    created: "2022-08-27T11:01:00.199994+03:00"
     description: A Helm chart for EDP Reconciler
     digest: ef26a59e5f2450374291ede4fa38d2c8ce688f5dea796aa27c977f7a8f22c57b
     home: https://epam.github.io/edp-install/
@@ -3739,7 +3619,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.347839367Z"
+    created: "2022-08-27T11:01:00.199616+03:00"
     description: A Helm chart for EDP Reconciler
     digest: 77b8f47b59381ab0344d5ec68659efa4336bdb40a5843ac40a067223e8b3fe6b
     home: https://epam.github.io/edp-install/
@@ -3763,7 +3643,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.345819196Z"
+    created: "2022-08-27T11:01:00.199193+03:00"
     description: A Helm chart for EDP Reconciler
     digest: 0c8d56221031c8a589e12fbcd02a29d50e806f99003b3d3ce0d4ce2999d33b54
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -3858,7 +3738,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2022-08-27T07:37:49.353355239Z"
+    created: "2022-08-27T11:01:00.205811+03:00"
     description: A Helm chart for EDP Sonar Operator
     digest: b5f8a91a3883ac6e717850bf2b9931fabc34e42b538c685a7bc0db87b65a01e3
     home: https://epam.github.io/edp-install/
@@ -3960,7 +3840,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2022-08-27T07:37:49.352052456Z"
+    created: "2022-08-27T11:01:00.204383+03:00"
     description: A Helm chart for EDP Sonar Operator
     digest: 238b799812711edcd930c2213bb0faaa18579b597961e981c6f211745c5c92ef
     home: https://epam.github.io/edp-install/
@@ -3985,7 +3865,7 @@ entries:
     version: 2.11.0
   - apiVersion: v2
     appVersion: 2.10.2
-    created: "2022-08-27T07:37:49.350794942Z"
+    created: "2022-08-27T11:01:00.201737+03:00"
     description: A Helm chart for EDP Sonar Operator
     digest: d2f4c66d58c60c866386dd2109dc95fa02b93374ccdbb7a166986c199094053f
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -4000,7 +3880,7 @@ entries:
     version: 2.10.2
   - apiVersion: v2
     appVersion: 2.10.0
-    created: "2022-08-27T07:37:49.349713206Z"
+    created: "2022-08-27T11:01:00.200714+03:00"
     description: A Helm chart for EDP Sonar Operator
     digest: 6969d8b863f26d62f1b9c2d5da13af88de7ad44066bac49247a036bfd7f9e2f9
     home: https://solutionshub.epam.com/solution/epam-delivery-platform
@@ -4013,4 +3893,4 @@ entries:
     urls:
     - https://epam.github.io/edp-helm-charts/stable/packages/sonar-operator-2.10.0.tgz
     version: 2.10.0
-generated: "2022-08-27T07:37:49.201383257Z"
+generated: "2022-08-27T11:01:00.120874+03:00"
