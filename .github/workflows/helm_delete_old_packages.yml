@@ -1,9 +1,8 @@
 name: Helm Delete Old Packages
 
 on:
-  push:
-    branches:
-      - gh-pages
+  schedule:
+    - cron: "0 1 * * *"
 
 jobs:
   delete_old_packages:
