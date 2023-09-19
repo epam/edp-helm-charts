@@ -1,0 +1,46 @@
+name: Helm Delete Old Packages
+
+on:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  delete_old_packages:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.x
+
+    - name: Install Helm
+      env:
+        HELM_VERSION: v3.7.1
+      run: |
+        curl -LO https://get.helm.sh/helm-${HELM_VERSION}-linux-amd64.tar.gz
+        tar -xvf helm-${HELM_VERSION}-linux-amd64.tar.gz --strip-components=1 linux-amd64/helm
+        rm helm-${HELM_VERSION}-linux-amd64.tar.gz
+
+    - name: Delete old packages and update Helm index
+      run: python .github/workflows/helm_delete_old_packages.py
+
+    - name: Update Helm index
+      run: |
+        helm repo index snapshot --url https://epam.github.io/edp-helm-charts/snapshot
+        rm helm
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "SupportEPMD-EDP@epam.com"
+        git config --local user.name "edp-bot"
+        git add .
+        git diff-index --quiet HEAD || git commit -m "Delete old packages of Helm charts" || (echo "No changes" && exit 0)
+        git push
