@@ -36,23 +36,18 @@ Feel free to email us at SupportEPMD-EDP@epam.com for any issues.
 
 ## Description
 
-This repository contains all EPAM Delivery Platform helm charts. Find here release versions and the charts for development and testing.
+This repository contains all EPAM Delivery Platform helm charts. Find here the release versions and the charts for development and testing.
 
 Source code of helm charts:
 
-* [admin-console-operator](https://github.com/epam/edp-admin-console-operator/tree/master/deploy-templates)
 * [cd-pipeline-operator](https://github.com/epam/edp-cd-pipeline-operator/tree/master/deploy-templates)
 * [codebase-operator](https://github.com/epam/edp-codebase-operator/tree/master/deploy-templates)
-* [edp-argocd-operator](https://github.com/epam/edp-argocd-operator/tree/master/deploy-templates)
 * [edp-component-operator](https://github.com/epam/edp-component-operator/tree/master/deploy-templates)
 * [edp-headlamp](https://github.com/epam/edp-headlamp/tree/master/deploy-templates)
 * [edp-install](https://github.com/epam/edp-install/tree/master/deploy-templates)
 * [gerrit-operator](https://github.com/epam/edp-gerrit-operator/tree/master/deploy-templates)
-* [jenkins-operator](https://github.com/epam/edp-jenkins-operator/tree/master/deploy-templates)
 * [keycloak-operator](https://github.com/epam/edp-keycloak-operator/tree/master/deploy-templates)
 * [nexus-operator](https://github.com/epam/edp-nexus-operator/tree/master/deploy-templates)
-* [perf-operator](https://github.com/epam/edp-perf-operator/tree/master/deploy-templates)
-* [reconciler](https://github.com/epam/edp-reconciler/tree/master/deploy-templates)
 * [sonar-operator](https://github.com/epam/edp-sonar-operator/tree/master/deploy-templates)
 
 ## Current Testing
@@ -64,5 +59,6 @@ Helm3 is currently used for testing.
 [Apache License 2.0](https://opensource.org/licenses/Apache-2.0).
 
 ### Related Articles
+
 * [EPAM Delivery Platform](https://epam.github.io/edp-install/)
 * [Install EDP](https://epam.github.io/edp-install/operator-guide/install-edp/)
