@@ -1,14 +1,14 @@
-# EPAM Delivery Platform - Helm Charts Repository
+# KubeRocketCI - Helm Charts Repository
 
-![https://raw.githubusercontent.com/epam/edp-install/master/docs/assets/logo.png](./images/logo.png)
+<img src="https://raw.githubusercontent.com/KubeRocketCI/docs/main/static/img/kuberocketci.png" width=150 height=150>
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache.2-green.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/epmdedp)](https://artifacthub.io/packages/search?repo=epmdedp)
 
-Welcome to the EPAM Delivery Platform charts repository.
+Welcome to the KubeRocketCI charts repository.
 
 
->_**NOTE**: For more details on installing EDP, please refer to the [Install EDP](https://epam.github.io/edp-install/operator-guide/install-edp/) page._
+>_**NOTE**: For more details on installing KubeRocketCI, please refer to the [Install KubeRocketCI](https://docs.kuberocketci.io/docs/quick-start/platform-installation) page._
 
 
 
@@ -42,7 +42,6 @@ Source code of helm charts:
 
 * [cd-pipeline-operator](https://github.com/epam/edp-cd-pipeline-operator/tree/master/deploy-templates)
 * [codebase-operator](https://github.com/epam/edp-codebase-operator/tree/master/deploy-templates)
-* [edp-component-operator](https://github.com/epam/edp-component-operator/tree/master/deploy-templates)
 * [edp-headlamp](https://github.com/epam/edp-headlamp/tree/master/deploy-templates)
 * [edp-install](https://github.com/epam/edp-install/tree/master/deploy-templates)
 * [gerrit-operator](https://github.com/epam/edp-gerrit-operator/tree/master/deploy-templates)
@@ -60,5 +59,4 @@ Helm3 is currently used for testing.
 
 ### Related Articles
 
-* [EPAM Delivery Platform](https://epam.github.io/edp-install/)
-* [Install EDP](https://epam.github.io/edp-install/operator-guide/install-edp/)
+* [KubeRocketCI](https://docs.kuberocketci.io/)
