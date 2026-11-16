@@ -59,7 +59,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.050927975Z"
+    created: "2026-11-16T19:33:46.330703634Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 09abe7a0579b3c901dddadc43e5608a284fc28d9059efeb02a0a7ddabab672eb
     home: https://docs.kuberocketci.io/
@@ -140,7 +140,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.050520012Z"
+    created: "2026-11-16T19:33:46.330293861Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 20e66b85f372a1465c57da45a18bc4cbe3534c1be52110e4c426db1435222296
     home: https://docs.kuberocketci.io/
@@ -221,7 +221,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.05011035Z"
+    created: "2026-11-16T19:33:46.329857158Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: b451faead03c46d0971133c16ecd2d238f2546904664653b128a0d68e5bae3f6
     home: https://docs.kuberocketci.io/
@@ -302,7 +302,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.049688267Z"
+    created: "2026-11-16T19:33:46.329433676Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 761d591439f77c533e532b896b21c8f4da3f1b105a1dea9c4c19435bf3e87949
     home: https://docs.kuberocketci.io/
@@ -383,7 +383,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.049270894Z"
+    created: "2026-11-16T19:33:46.329009703Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: b6dd0c52858dbea392b17204195d7cd0f654b680b8c1cbee94bb110e08b30d52
     home: https://docs.kuberocketci.io/
@@ -464,7 +464,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.048857712Z"
+    created: "2026-11-16T19:33:46.32855719Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 3022ce304d73819b50d6a79b8a5747a241c8251493739e022bf3760e32799807
     home: https://docs.kuberocketci.io/
@@ -545,7 +545,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.048442249Z"
+    created: "2026-11-16T19:33:46.327590704Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 0a385321a9873ff6db0d2c00904c3df4f98fe9d1440c70ef72a10005ef9d6f95
     home: https://docs.kuberocketci.io/
@@ -626,7 +626,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.048016907Z"
+    created: "2026-11-16T19:33:46.327170741Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 7786def8aa0f7fd01bc18f06883292e756c5d33fd55df85a1ef84b20735153b5
     home: https://docs.kuberocketci.io/
@@ -707,7 +707,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.047590004Z"
+    created: "2026-11-16T19:33:46.326754128Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 115a66b7a1498d56b2bd9c91e9ce6b7e3ab8cea03186baf6089f2cc75cd1309a
     home: https://docs.kuberocketci.io/
@@ -788,7 +788,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.044807347Z"
+    created: "2026-11-16T19:33:46.324647285Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: a326737dec342a9286bff39ea9ff37b8a9a28527f98e334267778d9aba131d0c
     home: https://docs.kuberocketci.io/
@@ -869,7 +869,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.047151441Z"
+    created: "2026-11-16T19:33:46.326326686Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 02e289c96c88ece479ca3d2c61010b2b816dee38e80037a10715684b0057348b
     home: https://docs.kuberocketci.io/
@@ -950,7 +950,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.046727659Z"
+    created: "2026-11-16T19:33:46.325922043Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: c362567592b3a4d1c6e7d5522ef3dfe248aab85886165d57e52ef070a14e29b9
     home: https://docs.kuberocketci.io/
@@ -1031,7 +1031,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.046247116Z"
+    created: "2026-11-16T19:33:46.32549343Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 0e05136c1208774ca70f94fc0dde3415bfd86af7922a01baf28f8dd80e500d77
     home: https://docs.kuberocketci.io/
@@ -1112,7 +1112,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.04523284Z"
+    created: "2026-11-16T19:33:46.325050647Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: c579d4cfc3aee87ebe2393ac9cb57cf49a8f6e5e2a447aa56be66abce7081470
     home: https://docs.kuberocketci.io/
@@ -1193,7 +1193,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-RC.1
-    created: "2026-11-16T19:16:24.044396895Z"
+    created: "2026-11-16T19:33:46.324201522Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: cdc498925093b1d560a065cea0b10e41a7d3e614fcc2d6e3e426c4b82b5ccb9c
     home: https://docs.kuberocketci.io/
@@ -1274,7 +1274,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.32.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.043982422Z"
+    created: "2026-11-16T19:33:46.323772069Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 89280294fa48f48b434c4f471271fa46abd7124c4e3a3940020968634482260d
     home: https://docs.kuberocketci.io/
@@ -1355,7 +1355,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.32.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.04361624Z"
+    created: "2026-11-16T19:33:46.323365827Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 699c8cf3374af24c89f1efb17f5a65a1a9938f39605198b851a38ce795555e4a
     home: https://docs.kuberocketci.io/
@@ -1436,7 +1436,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.32.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.043250697Z"
+    created: "2026-11-16T19:33:46.322906064Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: e76217fed758bc74ca34d778604ba2c98409c2e41a9bc1cd7a635af2da1716d1
     home: https://docs.kuberocketci.io/
@@ -1517,7 +1517,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.32.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.042893035Z"
+    created: "2026-11-16T19:33:46.322037378Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 9c456af27e1fc2b760e01daa93f0c3049c8e7ca4845cf4a8d9878ee42f77e23b
     home: https://docs.kuberocketci.io/
@@ -1598,7 +1598,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.32.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.042498843Z"
+    created: "2026-11-16T19:33:46.321665756Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 3d0e2cc21f3c5d1b7fa4b660989b2d30ca4f91fa1b93faa4de06130aee1db5a7
     home: https://docs.kuberocketci.io/
@@ -1679,7 +1679,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.31.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.04209716Z"
+    created: "2026-11-16T19:33:46.321292443Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 6d35b459a449135593289eb31507928ff4ba48dfdeb94f51bc962711c2d8a93b
     home: https://docs.kuberocketci.io/
@@ -1760,7 +1760,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.31.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.041711988Z"
+    created: "2026-11-16T19:33:46.320918411Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 1b6a2011a54b4612a8ed3e2e9133c659f06c8abf9adba5985c193f8dc1d6a2eb
     home: https://docs.kuberocketci.io/
@@ -1841,7 +1841,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.31.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.041285255Z"
+    created: "2026-11-16T19:33:46.320545588Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: e90a5acd7ac27ad81b8143a41404c51de0a60910c48249ba4c41f4a35ae5fc1e
     home: https://docs.kuberocketci.io/
@@ -1922,7 +1922,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.31.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.040845783Z"
+    created: "2026-11-16T19:33:46.320155566Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 6bc285b94c47410d2177088a43fbf038b77c41c460ab0bada35fea4f05389e28
     home: https://docs.kuberocketci.io/
@@ -2003,7 +2003,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.31.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.039939787Z"
+    created: "2026-11-16T19:33:46.319761323Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: a9e229fbd30f1d99200cad653013da9a289118f683d1f5d71e2f36d825b9cc59
     home: https://docs.kuberocketci.io/
@@ -2084,7 +2084,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.039432764Z"
+    created: "2026-11-16T19:33:46.319380251Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: b14033a39ad431c864446885563e658f7fab6db0e21814cda822dea978bd0202
     home: https://docs.kuberocketci.io/
@@ -2165,7 +2165,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.039070312Z"
+    created: "2026-11-16T19:33:46.319005738Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 47cb01c54bc31bd43c4c68ca2fe61758518b0c8d616ed36588fc8a880599a113
     home: https://docs.kuberocketci.io/
@@ -2246,7 +2246,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.0387037Z"
+    created: "2026-11-16T19:33:46.318634796Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: e22585eb7b4f8ad45ffacb882098792c9aaa5afa4d3bbd0ebf6e0a26eceb4372
     home: https://docs.kuberocketci.io/
@@ -2327,7 +2327,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.038329967Z"
+    created: "2026-11-16T19:33:46.318241613Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 236e4342a34fe912b7191ec91482cad610eefdccb4c038f9be829e31ef3d3ca0
     home: https://docs.kuberocketci.io/
@@ -2408,7 +2408,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.037954885Z"
+    created: "2026-11-16T19:33:46.31774629Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 761a17c8e9a875f88794574e462719cdceb594d5c27b973fba69cd7b34810321
     home: https://docs.kuberocketci.io/
@@ -2489,7 +2489,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.29.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.037563643Z"
+    created: "2026-11-16T19:33:46.316775684Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: c581d2f61041941e415f8c2a30f19e405dd4ad76f27f9cb6929403b88eeea530
     home: https://docs.kuberocketci.io/
@@ -2570,7 +2570,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.29.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.03718984Z"
+    created: "2026-11-16T19:33:46.316417342Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: fbb3449e2be817246a6391f3b84310350424a7e41182a09f2f3dfd9ce2d414bf
     home: https://docs.kuberocketci.io/
@@ -2651,7 +2651,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.29.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.036814518Z"
+    created: "2026-11-16T19:33:46.316058049Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 8c98ad101fe9d96f7ab75c8b3847225a7743b1b59e68342837b47e08090e43fe
     home: https://docs.kuberocketci.io/
@@ -2732,7 +2732,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.29.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.036430166Z"
+    created: "2026-11-16T19:33:46.315694167Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: aea7b059ae5b8915a8106e994978614473306ce13a2ec67c9ba7e25154bad8db
     home: https://docs.kuberocketci.io/
@@ -2813,7 +2813,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.29.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.036066263Z"
+    created: "2026-11-16T19:33:46.315314905Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: df9c403d3d4e9c206e043dd66a70f08882ae2ac939b5c8aa67840c684357134e
     home: https://docs.kuberocketci.io/
@@ -2894,7 +2894,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.28.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.035667811Z"
+    created: "2026-11-16T19:33:46.314929082Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 394e3d2396c84ae9cdf13e3242f839af9397499a3fa9e2ae26a099daa4674f8c
     home: https://docs.kuberocketci.io/
@@ -2975,7 +2975,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.28.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.035235668Z"
+    created: "2026-11-16T19:33:46.31455134Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: f5822fd8565464866124bb0342bbe85a11cd127b343f43ff6c8c097282d24bac
     home: https://docs.kuberocketci.io/
@@ -3056,7 +3056,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.27.0-SNAPSHOT.17
-    created: "2026-11-16T19:16:24.034480024Z"
+    created: "2026-11-16T19:33:46.314168407Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 2fec3e0b60d60069defc1b02a8db522b3f2524538007e271919e1e2291c59f62
     home: https://docs.kuberocketci.io/
@@ -3137,7 +3137,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.27.0-SNAPSHOT.16
-    created: "2026-11-16T19:16:24.03381467Z"
+    created: "2026-11-16T19:33:46.313764375Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 581eee861ed6100bff7674a2720f71fe1db3a3a8d05b443e6bdc822c2fbd682e
     home: https://docs.kuberocketci.io/
@@ -3218,7 +3218,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.27.0-SNAPSHOT.15
-    created: "2026-11-16T19:16:24.033412297Z"
+    created: "2026-11-16T19:33:46.313368362Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 7008700e1404f174a923984b19ae9c4c3834a565c9eb59776e79e2a8afd8ef9a
     home: https://docs.kuberocketci.io/
@@ -3299,7 +3299,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.27.0-SNAPSHOT.14
-    created: "2026-11-16T19:16:24.033031315Z"
+    created: "2026-11-16T19:33:46.312971699Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 559af12f08b1f10071f938c87028e0aec64a93bbc6d28039120c78cf5b051628
     home: https://docs.kuberocketci.io/
@@ -3380,7 +3380,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.27.0-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.032621383Z"
+    created: "2026-11-16T19:33:46.312499706Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: c5a5e8fb208891ffd2c4420cb69ece22162f7e7bc87ec02a8e0e0847c163d22c
     home: https://docs.kuberocketci.io/
@@ -3461,7 +3461,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.25.0-RC.4
-    created: "2026-11-16T19:16:24.03223262Z"
+    created: "2026-11-16T19:33:46.31154125Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: db67ba9a085c43cb2640bc5f6bf8f6e6f7e5b09b6b2a178aa557bb95e66c742a
     home: https://docs.kuberocketci.io/
@@ -3542,7 +3542,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.25.0-RC.1
-    created: "2026-11-16T19:16:24.031806528Z"
+    created: "2026-11-16T19:33:46.311097197Z"
     description: A Helm chart for KubeRocketCI CD Pipeline Operator
     digest: 119efd4f3abf82ca79d3c07fe3ecd6f5cd08d34c05dbd2c429a554a84f42ea08
     home: https://docs.kuberocketci.io/
@@ -3709,7 +3709,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.38.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.080964089Z"
+    created: "2026-11-16T19:33:46.36108005Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 3c331750ca369f5f1a5f74ee67a730c549581ff96d9ec8c268c9dd410927751d
     home: https://docs.kuberocketci.io/
@@ -3885,7 +3885,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.38.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.080389905Z"
+    created: "2026-11-16T19:33:46.360448946Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 14bc3f96c6878231b70c7155626dc3fe312bb57ac496f8c2d11588c10b676b9a
     home: https://docs.kuberocketci.io/
@@ -4061,7 +4061,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.38.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.079806212Z"
+    created: "2026-11-16T19:33:46.359824062Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 533537cea25bd1d43ff02d51aaac3139dd42adf2bc6c228ed776a04215af6112
     home: https://docs.kuberocketci.io/
@@ -4237,7 +4237,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.38.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.079220028Z"
+    created: "2026-11-16T19:33:46.359207578Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 8943ea5a555126e87979de3f735edbd36a14617fbe2144ad6d7250a970ba8ef0
     home: https://docs.kuberocketci.io/
@@ -4413,7 +4413,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.38.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.078639625Z"
+    created: "2026-11-16T19:33:46.358592864Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 726be75ae015e372cb6d90bcf8f50badd115ba6ebdd347288c7ea4293ecd8da0
     home: https://docs.kuberocketci.io/
@@ -4589,7 +4589,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.37.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.078039401Z"
+    created: "2026-11-16T19:33:46.35796146Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 6cc247ebe83dc2d713fd26a95ac340ae8dd0c22fd42b8f73910605cb11772f24
     home: https://docs.kuberocketci.io/
@@ -4765,7 +4765,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.37.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.077411347Z"
+    created: "2026-11-16T19:33:46.357324286Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: cbf0afc2419dca71f6bdccf4963285b506d48381e132a459f6c86ba923472d87
     home: https://docs.kuberocketci.io/
@@ -4941,7 +4941,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.37.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.076809683Z"
+    created: "2026-11-16T19:33:46.356619301Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: ee935d4550ae5f29755c79717a0ac2ae63a5d5a68c521b18eb90743cb20b1a2c
     home: https://docs.kuberocketci.io/
@@ -5117,7 +5117,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.37.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.076125739Z"
+    created: "2026-11-16T19:33:46.355422763Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: e02b7503d21483b48f67cc513c706b5e5011c5714bec4b6350e6117cc6fcfc3c
     home: https://docs.kuberocketci.io/
@@ -5293,7 +5293,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.37.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.075051373Z"
+    created: "2026-11-16T19:33:46.354795799Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 5176abc65efb83d7d866137f88ed6e31c7ad80bf7f89db1996ed601b52cb1a3f
     home: https://docs.kuberocketci.io/
@@ -5469,7 +5469,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.36.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.074298988Z"
+    created: "2026-11-16T19:33:46.354177345Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 1bbade4a7d07da6cb884da8c9d13056b61970672b1f0cf4a5533b4ad3914246e
     home: https://docs.kuberocketci.io/
@@ -5645,7 +5645,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.36.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.073717445Z"
+    created: "2026-11-16T19:33:46.353565461Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 7dd5593ecfa7c258ed928ffc66aac5c4e7472a5575870c726f5558723c19cb89
     home: https://docs.kuberocketci.io/
@@ -5821,7 +5821,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.36.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.073098941Z"
+    created: "2026-11-16T19:33:46.352940937Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 126d84ab3d66509be96828de42aefa4c0e68097277a5a68cacbb49ebb5b4748d
     home: https://docs.kuberocketci.io/
@@ -5997,7 +5997,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.36.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.072467957Z"
+    created: "2026-11-16T19:33:46.352325013Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 8a54d91edd85264fabee72fedfae3d61b359adf452d172f2ada347282265b5be
     home: https://docs.kuberocketci.io/
@@ -6173,7 +6173,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.36.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.071886863Z"
+    created: "2026-11-16T19:33:46.351696199Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 54ca776a3bbaaba91d854c9620c8c26195d9bc2a2bd1f79627ea2edee2a78ca7
     home: https://docs.kuberocketci.io/
@@ -6349,7 +6349,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.14
-    created: "2026-11-16T19:16:24.07128959Z"
+    created: "2026-11-16T19:33:46.350974555Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 92f37756b40e29c265e7594ff7b2a80c83c774aba5435c2c68b0c4405a3de513
     home: https://docs.kuberocketci.io/
@@ -6525,7 +6525,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.070665896Z"
+    created: "2026-11-16T19:33:46.349629206Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 7b8d526e7bb88d66e5ec3f562bbe999cb3052b363eedd3e7db8444fa5d74e84c
     home: https://docs.kuberocketci.io/
@@ -6701,7 +6701,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.070002312Z"
+    created: "2026-11-16T19:33:46.348999522Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: d6c5f51e0448b4538cb74f51252c5c13cff6bdbe83a10854effdbb630f5d9179
     home: https://docs.kuberocketci.io/
@@ -6877,7 +6877,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.069078386Z"
+    created: "2026-11-16T19:33:46.348384728Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 3cac21ecb7840a2d5083f5599da31f9a001bdb99a8184e9faa0675724f6f1a82
     home: https://docs.kuberocketci.io/
@@ -7053,7 +7053,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.35.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.068241801Z"
+    created: "2026-11-16T19:33:46.347788034Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 82451329d1b58a39b145179565ab671c7d0609300496329f168079cf41f1859b
     home: https://docs.kuberocketci.io/
@@ -7229,7 +7229,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.18
-    created: "2026-11-16T19:16:24.067684267Z"
+    created: "2026-11-16T19:33:46.347242741Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 4fec14a9f764f09a030498be58a3869d866c9dddc9f026c5c4c4e16448ad11f1
     home: https://docs.kuberocketci.io/
@@ -7405,7 +7405,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.17
-    created: "2026-11-16T19:16:24.067116634Z"
+    created: "2026-11-16T19:33:46.346688507Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: f2f8395ae78db9bebbecfb836782a42905549bfb47342abdf16cb2634bd41676
     home: https://docs.kuberocketci.io/
@@ -7581,7 +7581,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.14
-    created: "2026-11-16T19:16:24.066567111Z"
+    created: "2026-11-16T19:33:46.346128893Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 7a638ecd05547e56f6c0095df41caf455581e323f66d593a7c55b96e7776b0a4
     home: https://docs.kuberocketci.io/
@@ -7757,7 +7757,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.066013987Z"
+    created: "2026-11-16T19:33:46.34555096Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: c5f66b3e184e761d02b8baef639f3460d100c5feac7e0ff7584fcd024cbeecaa
     home: https://docs.kuberocketci.io/
@@ -7933,7 +7933,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.34.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.065480614Z"
+    created: "2026-11-16T19:33:46.344885615Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 2dbbcc14182cee6ab18afde9e2b34413efd182f250b614c3a0322192a18a1c3c
     home: https://docs.kuberocketci.io/
@@ -8109,7 +8109,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.06486496Z"
+    created: "2026-11-16T19:33:46.343866059Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 8d2ddcf3094ab2b6402b5536791bda4797b6a950f0b0e5350cd17a6e33280197
     home: https://docs.kuberocketci.io/
@@ -8285,7 +8285,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.064298747Z"
+    created: "2026-11-16T19:33:46.343320565Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 6bb97fddb4941c6b3bfabdd457fcd8f59e7c721e19376817ddfe3b54caf8a255
     home: https://docs.kuberocketci.io/
@@ -8461,7 +8461,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.063685763Z"
+    created: "2026-11-16T19:33:46.342783712Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 86ec89563737d08db4e729a138d59153a0d364318d2e48eb45040768a8ddf0bd
     home: https://docs.kuberocketci.io/
@@ -8637,7 +8637,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.062496076Z"
+    created: "2026-11-16T19:33:46.342243688Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 2ff1634d7d8ff907e5652569b73052d6edf7c18c9dc414e15c8e1505683b3e48
     home: https://docs.kuberocketci.io/
@@ -8813,7 +8813,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.33.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.061976392Z"
+    created: "2026-11-16T19:33:46.341717955Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 3246775ac258f490a66996ab3e87eee9aa8b5ebf630ae0a387a419036b21b640
     home: https://docs.kuberocketci.io/
@@ -8989,7 +8989,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.32.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.061453039Z"
+    created: "2026-11-16T19:33:46.341161431Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 802fe6d0fd6ea23d484ee30d09a6564445703d3fb73f663f9775d3aacd2adf78
     home: https://docs.kuberocketci.io/
@@ -9165,7 +9165,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.32.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.060924276Z"
+    created: "2026-11-16T19:33:46.340622728Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: e8734aced2616d27f9683c66e470f3e787587edcf2429d1563fd874502b78728
     home: https://docs.kuberocketci.io/
@@ -9341,7 +9341,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.32.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.060381913Z"
+    created: "2026-11-16T19:33:46.340042194Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 42efb2214b5d7c7be689999873f67865f15752389ac6c549313480d562c3d96c
     home: https://docs.kuberocketci.io/
@@ -9517,7 +9517,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.31.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.059835759Z"
+    created: "2026-11-16T19:33:46.33943256Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 0053819b172e80cf3d8e033601ac491637a0d7c76cc2e252c436fdd543ee54ae
     home: https://docs.kuberocketci.io/
@@ -9693,7 +9693,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.31.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.059282486Z"
+    created: "2026-11-16T19:33:46.338272463Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 75bd12c5d41f0c693abf1a975f10e85daeb99c4eb3098d1d3b756988b33a11d0
     home: https://docs.kuberocketci.io/
@@ -9869,7 +9869,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.27
-    created: "2026-11-16T19:16:24.058739793Z"
+    created: "2026-11-16T19:33:46.337764219Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: dce8221dd7d3a37f36f41ba7678b13d134301671f0c67f34680794a3f5fefa9d
     home: https://docs.kuberocketci.io/
@@ -10045,7 +10045,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.26
-    created: "2026-11-16T19:16:24.058152529Z"
+    created: "2026-11-16T19:33:46.337239256Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: bd2751ddfbc7f958ec110fe677475293907d3104e3587ca506d60ee7694aaaec
     home: https://docs.kuberocketci.io/
@@ -10221,7 +10221,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.24
-    created: "2026-11-16T19:16:24.057522575Z"
+    created: "2026-11-16T19:33:46.336719103Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 9c6f600f41e47bf627752a7bd86701daccebb85074975a54a3100ed1af029be9
     home: https://docs.kuberocketci.io/
@@ -10397,7 +10397,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.23
-    created: "2026-11-16T19:16:24.056455169Z"
+    created: "2026-11-16T19:33:46.336189769Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: c3165ec3904ddde7d1eb7dcfa31f53ba9616b40d40b540da24ef524e5de8c1be
     home: https://docs.kuberocketci.io/
@@ -10573,7 +10573,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.30.0-SNAPSHOT.22
-    created: "2026-11-16T19:16:24.055932225Z"
+    created: "2026-11-16T19:33:46.335672076Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 7039b0cae63d82d01aa2e55125a4e626e5e7b43c001e8512d45dc32524f950a1
     home: https://docs.kuberocketci.io/
@@ -10749,7 +10749,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.29.0-RC.1
-    created: "2026-11-16T19:16:24.055403892Z"
+    created: "2026-11-16T19:33:46.335130222Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: e02866c02a0bebd609bca9c2beefb5a2778d8a1be0745cb40761578861c3d8dd
     home: https://docs.kuberocketci.io/
@@ -10925,7 +10925,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.27.0-RC.1
-    created: "2026-11-16T19:16:24.054843629Z"
+    created: "2026-11-16T19:33:46.334581459Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: d0a4769c6f8f7701bfdd039a046517563dfb1fb55825b1372ec7e860892cc07f
     home: https://docs.kuberocketci.io/
@@ -11101,7 +11101,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.24.0-RC.2
-    created: "2026-11-16T19:16:24.054381276Z"
+    created: "2026-11-16T19:33:46.334033495Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: af9eceb62d6a9f2c31c0316fdab2d83ddd994967f9e8cec2df31fbfa98329f12
     home: https://docs.kuberocketci.io/
@@ -11277,7 +11277,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.24.0-RC.1
-    created: "2026-11-16T19:16:24.053938373Z"
+    created: "2026-11-16T19:33:46.332929308Z"
     description: A Helm chart for KubeRocketCI Codebase Operator
     digest: 03aaa052082a239b9d8aec41fc6609cce2ac8be58c6027adda1acd5337c53215
     home: https://docs.kuberocketci.io/
@@ -11433,7 +11433,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0-MDTU-DDM-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.053089958Z"
+    created: "2026-11-16T19:33:46.332133323Z"
     description: A Helm chart for EDP Codebase Operator
     digest: ddf7583f3c22ffecbae03f65f52e1ddbf484850924fef11fb6914a48c028a6b7
     home: https://epam.github.io/edp-install/
@@ -11589,7 +11589,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0-MDTU-DDM-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.052716246Z"
+    created: "2026-11-16T19:33:46.331788351Z"
     description: A Helm chart for EDP Codebase Operator
     digest: 6aaebd5ea2cbf429dae61d1cc3a3c2a5afda89e55b22a047fe2a1c095da65f67
     home: https://epam.github.io/edp-install/
@@ -11745,7 +11745,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0-MDTU-DDM-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.052328583Z"
+    created: "2026-11-16T19:33:46.331445089Z"
     description: A Helm chart for EDP Codebase Operator
     digest: f85b130ec1012d8e90b532d74cb62c7de197045e50ab8068f95c6162068285fb
     home: https://epam.github.io/edp-install/
@@ -11901,7 +11901,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0-MDTU-DDM-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.05188616Z"
+    created: "2026-11-16T19:33:46.331088696Z"
     description: A Helm chart for EDP Codebase Operator
     digest: 4ef2953a95c3f60aeb4f5aa012cd825aa5e6779f83958a449254bd809cf87ec7
     home: https://epam.github.io/edp-install/
@@ -12057,7 +12057,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.12.0-MDTU-DDM-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.05346271Z"
+    created: "2026-11-16T19:33:46.332492665Z"
     description: A Helm chart for EDP Codebase Operator
     digest: edab29022ccfdc9eb09ac173a31f76c8d3667d3eec947e97b23c4e717c93e52b
     home: https://epam.github.io/edp-install/
@@ -12101,7 +12101,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.13.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.090145555Z"
+    created: "2026-11-16T19:33:46.370267629Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -12146,7 +12146,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.13.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.088553536Z"
+    created: "2026-11-16T19:33:46.369007051Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -12191,7 +12191,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.13.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.087271788Z"
+    created: "2026-11-16T19:33:46.367729643Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -12236,7 +12236,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.13.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.08598323Z"
+    created: "2026-11-16T19:33:46.365664649Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -12281,7 +12281,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.13.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.084105448Z"
+    created: "2026-11-16T19:33:46.364345631Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -12326,7 +12326,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.12.0-RC.1
-    created: "2026-11-16T19:16:24.082877451Z"
+    created: "2026-11-16T19:33:46.362997862Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -12378,7 +12378,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.26.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.094931855Z"
+    created: "2026-11-16T19:33:46.375240531Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 1b30ea47a8e1431631972dc772fd1289cb5536000c695dba59f1571184089f46
     home: https://docs.kuberocketci.io/
@@ -12420,7 +12420,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.26.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.094645213Z"
+    created: "2026-11-16T19:33:46.374932419Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 86add72c8615760e0162560637afb859a7aa7bacf7ea70f25600b1b9984f636d
     home: https://docs.kuberocketci.io/
@@ -12462,7 +12462,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.26.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.094352011Z"
+    created: "2026-11-16T19:33:46.374601497Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: c180ec7b2274f7591e4cd13f600a94e12ff323486d0a8af4476f249dc18e1799
     home: https://docs.kuberocketci.io/
@@ -12504,7 +12504,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.25.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.094057629Z"
+    created: "2026-11-16T19:33:46.374321135Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 4958364e1b9bd7df285722fec0e974676254407672241dc3355c8704a30bb241
     home: https://docs.kuberocketci.io/
@@ -12546,7 +12546,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.25.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.093744277Z"
+    created: "2026-11-16T19:33:46.374037793Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 5b73f4bf5e4553a58cd6f97a26b4458dbfd87c252cb01d63146cab95d7c91eb4
     home: https://docs.kuberocketci.io/
@@ -12588,7 +12588,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.25.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.093437276Z"
+    created: "2026-11-16T19:33:46.373729981Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: a55508435528ca1adc09c7525f1fb17b36f9140f078c7d5cbf6d5d8a9aff6019
     home: https://docs.kuberocketci.io/
@@ -12630,7 +12630,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.24.0-SNAPSHOT.34
-    created: "2026-11-16T19:16:24.093135434Z"
+    created: "2026-11-16T19:33:46.373445709Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 7d47be8e02bd94bbc9207adbf3f59d57040619291615de35dd4e9c3ae1559406
     home: https://docs.kuberocketci.io/
@@ -12672,7 +12672,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.24.0-SNAPSHOT.33
-    created: "2026-11-16T19:16:24.092826982Z"
+    created: "2026-11-16T19:33:46.373147038Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 687e20c252cbda15d62cb5ca039c83147b12872bcdd6890ec2b2dbee7168fa3f
     home: https://docs.kuberocketci.io/
@@ -12714,7 +12714,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.24.0-SNAPSHOT.32
-    created: "2026-11-16T19:16:24.09251429Z"
+    created: "2026-11-16T19:33:46.372830036Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: bb84ae797038c96ba35edce29c78d4a1dac726b800c7e1f89647f57cf0f862f4
     home: https://docs.kuberocketci.io/
@@ -12756,7 +12756,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.23.0-RC.2
-    created: "2026-11-16T19:16:24.092203198Z"
+    created: "2026-11-16T19:33:46.372476433Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 267ac6abf1b8c22781ff34cc94070e8f836710df17a93df5c2916f93151204f2
     home: https://docs.kuberocketci.io/
@@ -12798,7 +12798,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.23.0-RC.1
-    created: "2026-11-16T19:16:24.091887126Z"
+    created: "2026-11-16T19:33:46.371515907Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 2ad97348471fd7a1eb117fbb9e4d4c66fdf3e1bff21c08d5d8deff8a99329412
     home: https://docs.kuberocketci.io/
@@ -12840,7 +12840,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.22.0-RC.3
-    created: "2026-11-16T19:16:24.091566374Z"
+    created: "2026-11-16T19:33:46.371199065Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 1e25f9e28529ae6537badf44db2f087956be429fa5a21e66002021bb98eb5941
     home: https://docs.kuberocketci.io/
@@ -12882,7 +12882,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.22.0-RC.2
-    created: "2026-11-16T19:16:24.091180382Z"
+    created: "2026-11-16T19:33:46.370904253Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 07699e4c1db6df98f854d9159310f2a6de46b8b9e5b37f1c29d0c0e423d5448d
     home: https://docs.kuberocketci.io/
@@ -12924,7 +12924,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.22.0-RC.1
-    created: "2026-11-16T19:16:24.090817509Z"
+    created: "2026-11-16T19:33:46.370609881Z"
     description: A Helm chart for KubeRocketCI Headlamp
     digest: 2597ed0442969eaa7ab7189db6c7295376868012e085dce2e6f298d6cc0db2f4
     home: https://docs.kuberocketci.io/
@@ -12962,7 +12962,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.17.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.474011146Z"
+    created: "2026-11-16T19:33:46.756431277Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13021,7 +13021,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.17.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.463788483Z"
+    created: "2026-11-16T19:33:46.745950789Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13080,7 +13080,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.17.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.453910522Z"
+    created: "2026-11-16T19:33:46.735472922Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13139,7 +13139,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.17.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.444326304Z"
+    created: "2026-11-16T19:33:46.724414972Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13198,7 +13198,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.17.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.434486923Z"
+    created: "2026-11-16T19:33:46.715002433Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13257,7 +13257,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.16.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.424475962Z"
+    created: "2026-11-16T19:33:46.705024159Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13316,7 +13316,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.16.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.413714557Z"
+    created: "2026-11-16T19:33:46.69434394Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13375,7 +13375,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.16.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.403657365Z"
+    created: "2026-11-16T19:33:46.684822438Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13434,7 +13434,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.16.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.393834315Z"
+    created: "2026-11-16T19:33:46.675281097Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13493,7 +13493,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.16.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.383723003Z"
+    created: "2026-11-16T19:33:46.665693225Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13552,7 +13552,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.16.0-RC.2
-    created: "2026-11-16T19:16:24.37346816Z"
+    created: "2026-11-16T19:33:46.656134833Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13611,7 +13611,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.16.0-RC.1
-    created: "2026-11-16T19:16:24.363769451Z"
+    created: "2026-11-16T19:33:46.645778697Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13670,7 +13670,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.15.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.352853324Z"
+    created: "2026-11-16T19:33:46.635822332Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13729,7 +13729,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.15.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.342862332Z"
+    created: "2026-11-16T19:33:46.624934372Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13788,7 +13788,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.15.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.333001622Z"
+    created: "2026-11-16T19:33:46.614275395Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13847,7 +13847,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.15.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.323044612Z"
+    created: "2026-11-16T19:33:46.60402155Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13910,7 +13910,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.15.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.311882684Z"
+    created: "2026-11-16T19:33:46.593245421Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -13973,7 +13973,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.15.0-RC.1
-    created: "2026-11-16T19:16:24.300569544Z"
+    created: "2026-11-16T19:33:46.582117099Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14032,7 +14032,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.14.0-SNAPSHOT.20
-    created: "2026-11-16T19:16:24.289986189Z"
+    created: "2026-11-16T19:33:46.571639691Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14095,7 +14095,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.14.0-SNAPSHOT.19
-    created: "2026-11-16T19:16:24.279712566Z"
+    created: "2026-11-16T19:33:46.561176594Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14158,7 +14158,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.14.0-SNAPSHOT.18
-    created: "2026-11-16T19:16:24.26891868Z"
+    created: "2026-11-16T19:33:46.550926398Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14221,7 +14221,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.14.0-SNAPSHOT.17
-    created: "2026-11-16T19:16:24.258634597Z"
+    created: "2026-11-16T19:33:46.539892207Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14284,7 +14284,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.14.0-SNAPSHOT.16
-    created: "2026-11-16T19:16:24.248187073Z"
+    created: "2026-11-16T19:33:46.52952014Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14347,7 +14347,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.14.0-RC.1
-    created: "2026-11-16T19:16:24.238114531Z"
+    created: "2026-11-16T19:33:46.519191543Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14410,7 +14410,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-SNAPSHOT.19
-    created: "2026-11-16T19:16:24.227521267Z"
+    created: "2026-11-16T19:33:46.508527325Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14473,7 +14473,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-SNAPSHOT.18
-    created: "2026-11-16T19:16:24.216787911Z"
+    created: "2026-11-16T19:33:46.497925629Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14532,7 +14532,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-SNAPSHOT.17
-    created: "2026-11-16T19:16:24.207251123Z"
+    created: "2026-11-16T19:33:46.487926035Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14591,7 +14591,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-SNAPSHOT.15
-    created: "2026-11-16T19:16:24.197340192Z"
+    created: "2026-11-16T19:33:46.478190552Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14650,7 +14650,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-SNAPSHOT.14
-    created: "2026-11-16T19:16:24.187927984Z"
+    created: "2026-11-16T19:33:46.468352658Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14705,7 +14705,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-RC.9
-    created: "2026-11-16T19:16:24.178707858Z"
+    created: "2026-11-16T19:33:46.459006218Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14768,7 +14768,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-RC.7
-    created: "2026-11-16T19:16:24.167842811Z"
+    created: "2026-11-16T19:33:46.448692922Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14831,7 +14831,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-RC.6
-    created: "2026-11-16T19:16:24.157312306Z"
+    created: "2026-11-16T19:33:46.438380625Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14894,7 +14894,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-RC.5
-    created: "2026-11-16T19:16:24.147190524Z"
+    created: "2026-11-16T19:33:46.427286604Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -14957,7 +14957,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-RC.4
-    created: "2026-11-16T19:16:24.137413634Z"
+    created: "2026-11-16T19:33:46.417173708Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -15020,7 +15020,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-RC.3
-    created: "2026-11-16T19:16:24.126931001Z"
+    created: "2026-11-16T19:33:46.406936132Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -15083,7 +15083,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-RC.2
-    created: "2026-11-16T19:16:24.115970154Z"
+    created: "2026-11-16T19:33:46.396171634Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -15146,7 +15146,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.13.0-RC.1
-    created: "2026-11-16T19:16:24.10552973Z"
+    created: "2026-11-16T19:33:46.385861139Z"
     dependencies:
     - condition: codebase-operator.enabled
       name: codebase-operator
@@ -15208,7 +15208,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.30.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.862570625Z"
+    created: "2026-11-16T19:33:47.146861076Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15256,7 +15256,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.30.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.856182976Z"
+    created: "2026-11-16T19:33:47.140878367Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15304,7 +15304,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.30.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.850548071Z"
+    created: "2026-11-16T19:33:47.135893385Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15352,7 +15352,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.30.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.845563421Z"
+    created: "2026-11-16T19:33:47.129924216Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15400,7 +15400,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.29.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.839123601Z"
+    created: "2026-11-16T19:33:47.124873574Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15448,7 +15448,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.29.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.83408667Z"
+    created: "2026-11-16T19:33:47.119248938Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15496,7 +15496,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.29.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.828050623Z"
+    created: "2026-11-16T19:33:47.112883417Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15544,7 +15544,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.29.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.823022522Z"
+    created: "2026-11-16T19:33:47.107953735Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15592,7 +15592,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.29.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.817252287Z"
+    created: "2026-11-16T19:33:47.101605974Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15640,7 +15640,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.28.0-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.805711987Z"
+    created: "2026-11-16T19:33:47.090490122Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15688,7 +15688,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.28.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.800759797Z"
+    created: "2026-11-16T19:33:47.084527784Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15736,7 +15736,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.28.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.794369828Z"
+    created: "2026-11-16T19:33:47.079475571Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15784,7 +15784,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.28.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.788607893Z"
+    created: "2026-11-16T19:33:47.073483852Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15832,7 +15832,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.28.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.81107082Z"
+    created: "2026-11-16T19:33:47.095952857Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15880,7 +15880,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.27.0-SNAPSHOT.31
-    created: "2026-11-16T19:16:24.783796613Z"
+    created: "2026-11-16T19:33:47.068607491Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15928,7 +15928,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.27.0-SNAPSHOT.30
-    created: "2026-11-16T19:16:24.777553565Z"
+    created: "2026-11-16T19:33:47.06222795Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -15976,7 +15976,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.27.0-SNAPSHOT.29
-    created: "2026-11-16T19:16:24.771715539Z"
+    created: "2026-11-16T19:33:47.056967537Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16024,7 +16024,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.27.0-SNAPSHOT.28
-    created: "2026-11-16T19:16:24.766802799Z"
+    created: "2026-11-16T19:33:47.05109364Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16072,7 +16072,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.27.0-SNAPSHOT.25
-    created: "2026-11-16T19:16:24.760864292Z"
+    created: "2026-11-16T19:33:47.044932471Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16120,7 +16120,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.26.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.730148374Z"
+    created: "2026-11-16T19:33:47.013378828Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16169,7 +16169,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.26.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.720966478Z"
+    created: "2026-11-16T19:33:47.004301139Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16218,7 +16218,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.26.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.755937302Z"
+    created: "2026-11-16T19:33:47.039345205Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16267,7 +16267,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.26.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.746740216Z"
+    created: "2026-11-16T19:33:47.031046322Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16316,7 +16316,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.26.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.738714596Z"
+    created: "2026-11-16T19:33:47.022389406Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16365,7 +16365,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.26.0-RC.1
-    created: "2026-11-16T19:16:24.712801389Z"
+    created: "2026-11-16T19:33:46.994720168Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16414,7 +16414,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.25.0-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.694781278Z"
+    created: "2026-11-16T19:33:46.978250791Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16463,7 +16463,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.25.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.686713449Z"
+    created: "2026-11-16T19:33:46.970116659Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16512,7 +16512,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.25.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.678431268Z"
+    created: "2026-11-16T19:33:46.961533164Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16561,7 +16561,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.25.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.669757744Z"
+    created: "2026-11-16T19:33:46.953609963Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16610,7 +16610,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.25.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.703433991Z"
+    created: "2026-11-16T19:33:46.986473984Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16659,7 +16659,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.25.0-RC.1
-    created: "2026-11-16T19:16:24.661495594Z"
+    created: "2026-11-16T19:33:46.945059999Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16708,7 +16708,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.24.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.652965701Z"
+    created: "2026-11-16T19:33:46.936584716Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16757,7 +16757,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.24.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.644747791Z"
+    created: "2026-11-16T19:33:46.928605704Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16806,7 +16806,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.24.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.635751826Z"
+    created: "2026-11-16T19:33:46.920276851Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16855,7 +16855,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.24.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.628184459Z"
+    created: "2026-11-16T19:33:46.91250233Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16904,7 +16904,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.24.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.62003488Z"
+    created: "2026-11-16T19:33:46.904196877Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -16953,7 +16953,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.23.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.611874181Z"
+    created: "2026-11-16T19:33:46.89543487Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17002,7 +17002,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.23.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.603794451Z"
+    created: "2026-11-16T19:33:46.886497133Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17051,7 +17051,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.23.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.595243649Z"
+    created: "2026-11-16T19:33:46.878840003Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17100,7 +17100,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.23.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.586802887Z"
+    created: "2026-11-16T19:33:46.870064447Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17149,7 +17149,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.23.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.576785215Z"
+    created: "2026-11-16T19:33:46.860722397Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17198,7 +17198,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.22.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.5693524Z"
+    created: "2026-11-16T19:33:46.853337439Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17247,7 +17247,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.22.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.561906444Z"
+    created: "2026-11-16T19:33:46.845123236Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17296,7 +17296,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.22.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.553834734Z"
+    created: "2026-11-16T19:33:46.835265494Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17345,7 +17345,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.22.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.546204107Z"
+    created: "2026-11-16T19:33:46.827748837Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17394,7 +17394,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.21.0-SNAPSHOT.59
-    created: "2026-11-16T19:16:24.538060077Z"
+    created: "2026-11-16T19:33:46.819941927Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17443,7 +17443,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.21.0-SNAPSHOT.58
-    created: "2026-11-16T19:16:24.529125463Z"
+    created: "2026-11-16T19:33:46.811668163Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17492,7 +17492,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.21.0-SNAPSHOT.57
-    created: "2026-11-16T19:16:24.520668951Z"
+    created: "2026-11-16T19:33:46.803709852Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17541,7 +17541,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.21.0-SNAPSHOT.55
-    created: "2026-11-16T19:16:24.513046165Z"
+    created: "2026-11-16T19:33:46.79560715Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17590,7 +17590,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.21.0-SNAPSHOT.54
-    created: "2026-11-16T19:16:24.504808345Z"
+    created: "2026-11-16T19:33:46.788369023Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17639,7 +17639,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.18.0-RC.1
-    created: "2026-11-16T19:16:24.496757615Z"
+    created: "2026-11-16T19:33:46.78022039Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17688,7 +17688,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.17.0-RC.2
-    created: "2026-11-16T19:16:24.489530051Z"
+    created: "2026-11-16T19:33:46.77237825Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17737,7 +17737,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.17.0-RC.1
-    created: "2026-11-16T19:16:24.481960565Z"
+    created: "2026-11-16T19:33:46.764779861Z"
     dependencies:
     - name: edp-tekton-common-library
       repository: file://../common-library
@@ -17788,7 +17788,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.39
-    created: "2026-11-16T19:16:24.86336125Z"
+    created: "2026-11-16T19:33:47.147631951Z"
     description: A Helm chart library with common components for EDP Tekton Pipelines
     digest: 49de8209e202ddfda1e095abe26b608d7a06dfc0bf98fa911d5d5967f094a304
     home: https://epam.github.io/edp-install/
@@ -17829,7 +17829,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.37
-    created: "2026-11-16T19:16:24.863214499Z"
+    created: "2026-11-16T19:33:47.14748802Z"
     description: A Helm chart library with common components for EDP Tekton Pipelines
     digest: 1ece22c4d8c95652f6404f37d6647d96907ca173c5ad4c734d2271e0ef581702
     home: https://epam.github.io/edp-install/
@@ -17870,7 +17870,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.36
-    created: "2026-11-16T19:16:24.863068108Z"
+    created: "2026-11-16T19:33:47.147337259Z"
     description: A Helm chart library with common components for EDP Tekton Pipelines
     digest: 8a361ef28d0ff52586c0098c1272e47e1ab897f212d14838944afbb7512dece3
     home: https://epam.github.io/edp-install/
@@ -17911,7 +17911,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.34
-    created: "2026-11-16T19:16:24.862916697Z"
+    created: "2026-11-16T19:33:47.147190848Z"
     description: A Helm chart library with common components for EDP Tekton Pipelines
     digest: 3e98b425ca807f24ae9df94e5af7cba1b208ff83a9ed1547a213af1fa77875b2
     home: https://epam.github.io/edp-install/
@@ -17952,7 +17952,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.32
-    created: "2026-11-16T19:16:24.862752206Z"
+    created: "2026-11-16T19:33:47.147039767Z"
     description: A Helm chart library with common components for EDP Tekton Pipelines
     digest: d209a894d0d200b40144e263955117c76e7ed558a295868b4b0674ce9dd9c10d
     home: https://epam.github.io/edp-install/
@@ -18110,7 +18110,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.27.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.874626059Z"
+    created: "2026-11-16T19:33:47.158798142Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 3e7b644e90ba1032196eeca9537169c172821afffdf6a40b47b246f78f587157
     home: https://docs.kuberocketci.io/
@@ -18259,7 +18259,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.27.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.874047306Z"
+    created: "2026-11-16T19:33:47.158242939Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 27105d2de20f882408008e31dc3701d2538d52f2eb269e9cec33447b883c0518
     home: https://docs.kuberocketci.io/
@@ -18408,7 +18408,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.26.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.873475052Z"
+    created: "2026-11-16T19:33:47.157694525Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 64fee70484b24737b900c88bfd569fa39b2e9fa08944d544da350ad765aa540d
     home: https://docs.kuberocketci.io/
@@ -18557,7 +18557,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.26.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.872905779Z"
+    created: "2026-11-16T19:33:47.157132882Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: abc84c17ad91a9cd2b904a891e57c718e5786247b91548f51398f2b41f6c920a
     home: https://docs.kuberocketci.io/
@@ -18708,7 +18708,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.26.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.872336195Z"
+    created: "2026-11-16T19:33:47.156589048Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: ea4451f19bd393d1d089617cda082212d7e5ae071831c6a6c0b5d05f90d16e4d
     home: https://docs.kuberocketci.io/
@@ -18859,7 +18859,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.25.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.871724151Z"
+    created: "2026-11-16T19:33:47.156014185Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 73dc1932cdbe9de89f4915615aae49ff98abf3c157abb2095dfa1d4fdd15527b
     home: https://docs.kuberocketci.io/
@@ -19010,7 +19010,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.25.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.871109127Z"
+    created: "2026-11-16T19:33:47.155460951Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: a3873519832f822f25c7ca3dd73f768c013f1d42faf10346e52b12957b7d98fa
     home: https://docs.kuberocketci.io/
@@ -19161,7 +19161,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.25.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.86987906Z"
+    created: "2026-11-16T19:33:47.154843907Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 8a840be6844e6c8843ba2f9be92fe82ac1d8d719f404cb353755514ff5970285
     home: https://docs.kuberocketci.io/
@@ -19312,7 +19312,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.25.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.869295116Z"
+    created: "2026-11-16T19:33:47.154259793Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 63dc14408e7d760147af1cd9ba65992202a76e57670e75eef217df20eac73b93
     home: https://docs.kuberocketci.io/
@@ -19463,7 +19463,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.25.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.868772523Z"
+    created: "2026-11-16T19:33:47.15367501Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 910788e51778b6f2d9bf41d7e271b541b94eb706a68dcb7a24c63f0b50d6f689
     home: https://docs.kuberocketci.io/
@@ -19614,7 +19614,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.24.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.86824225Z"
+    created: "2026-11-16T19:33:47.152515352Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 80cc1f3bbb5739f236af91aca5eb7aadc3369489e13d7335819bb77a360bb8b6
     home: https://docs.kuberocketci.io/
@@ -19765,7 +19765,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.24.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.867737407Z"
+    created: "2026-11-16T19:33:47.151998249Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: a5ff9f3df4688d3e8d3636cfb242dde238554da6753679f783b538087c3e1f44
     home: https://docs.kuberocketci.io/
@@ -19916,7 +19916,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.24.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.867209314Z"
+    created: "2026-11-16T19:33:47.151480475Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: b43a705d00251352327ca83f97ec29c4aa9269df0406edc9f13d4599008a3143
     home: https://docs.kuberocketci.io/
@@ -20067,7 +20067,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.24.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.86667496Z"
+    created: "2026-11-16T19:33:47.150949432Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: a7f79956d7b5d1a3113c64fc40cc1e9735a42498d43109f7a6ededcb2b123a64
     home: https://docs.kuberocketci.io/
@@ -20218,7 +20218,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.23.0-RC.1
-    created: "2026-11-16T19:16:24.866150117Z"
+    created: "2026-11-16T19:33:47.150398019Z"
     description: A Helm chart for KubeRocketCI Gerrit Operator
     digest: 1d4fd27768d6bdc69eb5381b931a9d4c065b4e6c59f98b0cf8d331d110bfdab3
     home: https://docs.kuberocketci.io/
@@ -20349,7 +20349,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.865575684Z"
+    created: "2026-11-16T19:33:47.149846485Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: 09786a9992d7d7510826b57041d6449479ce5e25608ae00a116f36039a1db671
     home: https://epam.github.io/edp-install/
@@ -20480,7 +20480,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.865138641Z"
+    created: "2026-11-16T19:33:47.149399292Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: 18deb1136b06aad45cb0c87e53dc34a225ee3af46915a9fc2ead1d159b1753cb
     home: https://epam.github.io/edp-install/
@@ -20611,7 +20611,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.864695578Z"
+    created: "2026-11-16T19:33:47.148967739Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: c0db090e6e86e62040838cd97aaf464cae70982d74343b414289428179ff72ad
     home: https://epam.github.io/edp-install/
@@ -20742,7 +20742,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.864258545Z"
+    created: "2026-11-16T19:33:47.148511996Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: 83563116f5b7acaf32acb3ece136bd62de24d434da5ef8112f84248a01be9c0e
     home: https://epam.github.io/edp-install/
@@ -20873,7 +20873,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.863822723Z"
+    created: "2026-11-16T19:33:47.148075234Z"
     description: A Helm chart for EDP Gerrit Operator
     digest: 26af809abf3f70c67f72487ce9ff121e38ab555c84dc4ea72da301737d500b25
     home: https://epam.github.io/edp-install/
@@ -20911,7 +20911,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.9.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.884113617Z"
+    created: "2026-11-16T19:33:47.168299902Z"
     description: A Helm chart for GitFusion
     digest: 15f7cb603b3e42be266ea80e39170bfc05b8a6156641a3e639952507d615a331
     home: https://docs.kuberocketci.io/
@@ -20947,7 +20947,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.9.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.883824796Z"
+    created: "2026-11-16T19:33:47.16803506Z"
     description: A Helm chart for GitFusion
     digest: 99f3bfa94c34262926c6e5db62cc0f354ee58665431783db63f52dfb09768d15
     home: https://docs.kuberocketci.io/
@@ -20983,7 +20983,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.883468713Z"
+    created: "2026-11-16T19:33:47.167766989Z"
     description: A Helm chart for GitFusion
     digest: 20cca91c20294fd60a59477c324d685ce1a3e3f3d60c43fd1301877b89ac403e
     home: https://docs.kuberocketci.io/
@@ -21019,7 +21019,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.882510417Z"
+    created: "2026-11-16T19:33:47.167496367Z"
     description: A Helm chart for GitFusion
     digest: 88469d4249b842aa4dc2f62e9027445289b81cb5acc8ca05682d0d2da6950b4d
     home: https://docs.kuberocketci.io/
@@ -21055,7 +21055,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.882115815Z"
+    created: "2026-11-16T19:33:47.167225525Z"
     description: A Helm chart for GitFusion
     digest: 59ed94241cd24717fcb3903cf182b36225b923a71e1483bcc9ce128b45bc1b7c
     home: https://docs.kuberocketci.io/
@@ -21091,7 +21091,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.881869054Z"
+    created: "2026-11-16T19:33:47.166938933Z"
     description: A Helm chart for GitFusion
     digest: 4f6eb59ea801ced4809191309eb3a8a4e57fcafcfeac3089c7548fcf2a4af342
     home: https://docs.kuberocketci.io/
@@ -21127,7 +21127,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.7.0-SNAPSHOT.23
-    created: "2026-11-16T19:16:24.881604922Z"
+    created: "2026-11-16T19:33:47.166595331Z"
     description: A Helm chart for GitFusion
     digest: 64d3a2cb4da983afa8b1f8ba9b6ab2aacad00776744a819d6da6677f599c3b61
     home: https://docs.kuberocketci.io/
@@ -21163,7 +21163,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.7.0-SNAPSHOT.22
-    created: "2026-11-16T19:16:24.8813374Z"
+    created: "2026-11-16T19:33:47.165658685Z"
     description: A Helm chart for GitFusion
     digest: 3a1e03e0afc05e005e58560db2018fc72862583ebeac0fc49fb236ad02e56fb7
     home: https://docs.kuberocketci.io/
@@ -21199,7 +21199,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.7.0-SNAPSHOT.21
-    created: "2026-11-16T19:16:24.881070659Z"
+    created: "2026-11-16T19:33:47.165074822Z"
     description: A Helm chart for GitFusion
     digest: cdfb72e28a1b3f133b8b153647fcaba992fcc2c426e02d5b42d7e0bb6993f92e
     home: https://docs.kuberocketci.io/
@@ -21235,7 +21235,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.7.0-SNAPSHOT.20
-    created: "2026-11-16T19:16:24.880806137Z"
+    created: "2026-11-16T19:33:47.16480387Z"
     description: A Helm chart for GitFusion
     digest: 91788d9ad079dee958c426e28b49a6853e79bc740c7956504f672faa34b18569
     home: https://docs.kuberocketci.io/
@@ -21271,7 +21271,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.7.0-SNAPSHOT.19
-    created: "2026-11-16T19:16:24.880554815Z"
+    created: "2026-11-16T19:33:47.164553538Z"
     description: A Helm chart for GitFusion
     digest: 1ef8b683bc0d352b38c1f65108f53e70ef8f13334cee5b2e056893a39b5db80e
     home: https://docs.kuberocketci.io/
@@ -21307,7 +21307,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.880296004Z"
+    created: "2026-11-16T19:33:47.164303607Z"
     description: A Helm chart for GitFusion
     digest: ed95ddfb197137b7b1fabb12e5027799b4dfabb7669d010250b7a3a529e0bf9d
     home: https://docs.kuberocketci.io/
@@ -21343,7 +21343,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.880035392Z"
+    created: "2026-11-16T19:33:47.164041915Z"
     description: A Helm chart for GitFusion
     digest: 8e17bfe1c2dee7a608f3fb7a7d242442b830919a7dc171cff541601c880d7322
     home: https://docs.kuberocketci.io/
@@ -21379,7 +21379,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.879775151Z"
+    created: "2026-11-16T19:33:47.163774273Z"
     description: A Helm chart for GitFusion
     digest: 109314ab9a8191eae51e6a6af5204b8ec074552bb055380e0b7b8691f36fc8f6
     home: https://docs.kuberocketci.io/
@@ -21415,7 +21415,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.879514289Z"
+    created: "2026-11-16T19:33:47.163516502Z"
     description: A Helm chart for GitFusion
     digest: a2107c7e9138e9fde065f108ad00571dbefc3d9f308d9d540374fa4667193217
     home: https://docs.kuberocketci.io/
@@ -21451,7 +21451,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-RC.1
-    created: "2026-11-16T19:16:24.879225247Z"
+    created: "2026-11-16T19:33:47.16324422Z"
     description: A Helm chart for GitFusion
     digest: 9d73cceecf5c348d430e57d8a08b0be8beffff9527f036c2750a7d3101199b83
     home: https://docs.kuberocketci.io/
@@ -21487,7 +21487,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.878971066Z"
+    created: "2026-11-16T19:33:47.162975268Z"
     description: A Helm chart for GitFusion
     digest: e6472ad0c64f01923b80c52ff693e492f488844b3aa3589af38e5e2226bb4e08
     home: https://docs.kuberocketci.io/
@@ -21523,7 +21523,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.878713194Z"
+    created: "2026-11-16T19:33:47.162725817Z"
     description: A Helm chart for GitFusion
     digest: 76d87a224859417f6bc6bf3df00613fec2e022d455d12e457d85d2cfed6ef1b8
     home: https://docs.kuberocketci.io/
@@ -21559,7 +21559,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.878466853Z"
+    created: "2026-11-16T19:33:47.162455315Z"
     description: A Helm chart for GitFusion
     digest: d4ec5de018e5e1af227b4e375c1497c14e61da566dfd9fcc6e6a2d745a652ef3
     home: https://docs.kuberocketci.io/
@@ -21595,7 +21595,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.878205211Z"
+    created: "2026-11-16T19:33:47.162202784Z"
     description: A Helm chart for GitFusion
     digest: 527d2c80beb0f6054b46e155d855e9d0406124694f04fda5179b192fed3bdd13
     home: https://docs.kuberocketci.io/
@@ -21631,7 +21631,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.877931719Z"
+    created: "2026-11-16T19:33:47.161938182Z"
     description: A Helm chart for GitFusion
     digest: 8669ac64035138646a781fab3f3f5b0d50cd166cc2c58bbf07380f7be2f03f76
     home: https://docs.kuberocketci.io/
@@ -21667,7 +21667,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.877650978Z"
+    created: "2026-11-16T19:33:47.1616814Z"
     description: A Helm chart for GitFusion
     digest: 70f2015e843609d75dd389087e55de1eb94493e57727f1e34f98649845bc170f
     home: https://docs.kuberocketci.io/
@@ -21691,7 +21691,7 @@ entries:
     version: 0.4.0-SNAPSHOT.3
   - apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.877328076Z"
+    created: "2026-11-16T19:33:47.161394588Z"
     description: A Helm chart for Kubernetes
     digest: 87779711844d113d4871a5ab02117d189deb588ff802a9f2f79e9b9dd27c62cf
     home: https://github.com/KubeRocketCI/gitfusion
@@ -21706,7 +21706,7 @@ entries:
     version: 0.4.0-SNAPSHOT.2
   - apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.876723022Z"
+    created: "2026-11-16T19:33:47.161158397Z"
     description: A Helm chart for Kubernetes
     digest: 7d4f64e8be0451624ffa5572b67ac7de29a895065b15f0e8c335a002de0666b4
     home: https://github.com/KubeRocketCI/gitfusion
@@ -21721,7 +21721,7 @@ entries:
     version: 0.4.0-SNAPSHOT.1
   - apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.876085688Z"
+    created: "2026-11-16T19:33:47.160920125Z"
     description: A Helm chart for Kubernetes
     digest: e8a1c2f514b192f982608f757edc677ba5c4bcb47fedd1bc00c28dc2ff526fde
     home: https://github.com/KubeRocketCI/gitfusion
@@ -21736,7 +21736,7 @@ entries:
     version: 0.3.0-SNAPSHOT.3
   - apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.875858867Z"
+    created: "2026-11-16T19:33:47.160688714Z"
     description: A Helm chart for Kubernetes
     digest: 27315b3d8b37dce5df03baf7ae441989f09b2f87109fc8c4b71069d9f62df61e
     home: https://github.com/KubeRocketCI/gitfusion
@@ -21751,7 +21751,7 @@ entries:
     version: 0.3.0-SNAPSHOT.2
   - apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.875648365Z"
+    created: "2026-11-16T19:33:47.160453593Z"
     description: A Helm chart for Kubernetes
     digest: 733f69f136fb8dfa4a8df740726b89b3a751d2a1ac433372c74e8af2b2bf6dee
     home: https://github.com/KubeRocketCI/gitfusion
@@ -21766,7 +21766,7 @@ entries:
     version: 0.3.0-SNAPSHOT.1
   - apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.875424114Z"
+    created: "2026-11-16T19:33:47.160207661Z"
     description: A Helm chart for Kubernetes
     digest: b10f8d09ffd448215a27cc4856d1ff36a7e97023d824c38a72ffa66353a3bbf9
     home: https://github.com/KubeRocketCI/gitfusion
@@ -21781,7 +21781,7 @@ entries:
     version: 0.2.0-SNAPSHOT.9
   - apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.875187313Z"
+    created: "2026-11-16T19:33:47.159925759Z"
     description: A Helm chart for Kubernetes
     digest: 597df116b389cba1ae94ed41a73fb7599324cc4627d831fe88a29249d263a9e3
     home: https://github.com/KubeRocketCI/gitfusion
@@ -21796,7 +21796,7 @@ entries:
     version: 0.2.0-SNAPSHOT.8
   - apiVersion: v2
     appVersion: 0.1.0-RC.1
-    created: "2026-11-16T19:16:24.874900441Z"
+    created: "2026-11-16T19:33:47.159340666Z"
     description: A Helm chart for Kubernetes
     digest: 28fa9b94064d015409cea782e1e387269d24709926c04b7fbb0e27fc0a6932c2
     home: https://github.com/KubeRocketCI/gitfusion
@@ -21950,7 +21950,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.885645827Z"
+    created: "2026-11-16T19:33:47.169807471Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 13940f0d37c2e5e15bd32ede3799a84f4f2bb7777275a59dc6366a9938f81ff6
     home: https://epam.github.io/edp-install/
@@ -22113,7 +22113,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.885155574Z"
+    created: "2026-11-16T19:33:47.169302658Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 42afc88853fe1d1ac73fc7135ae0a3fa791cad090ad9070a18af0d6ba63c033c
     home: https://epam.github.io/edp-install/
@@ -22276,7 +22276,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.88459966Z"
+    created: "2026-11-16T19:33:47.168797175Z"
     description: A Helm chart for EDP Jenkins Operator
     digest: 04ae99dab05da32c83cc0bb05d2796d28077f984ee1e2c49b74d6bbe25371a8f
     home: https://epam.github.io/edp-install/
@@ -22634,7 +22634,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.37.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.917646682Z"
+    created: "2026-11-16T19:33:47.201519035Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: a6c915131d0d088e2dfdf877c5fc808e0bef4d6225b4309a387376bc09c2cc6d
     home: https://docs.kuberocketci.io/
@@ -22998,7 +22998,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.37.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.916384034Z"
+    created: "2026-11-16T19:33:47.200348218Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: b1b3dd67a418e34618952cef74c4fcfb3b45dd7a049885e78fbbefe6bc3d43ac
     home: https://docs.kuberocketci.io/
@@ -23362,7 +23362,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.37.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.914613353Z"
+    created: "2026-11-16T19:33:47.198568316Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: b4069d5ea42fcd5197f46506ca87fc4ace9ba8344a585f2d8d372aa2eb421a6f
     home: https://docs.kuberocketci.io/
@@ -23726,7 +23726,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.37.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.913509126Z"
+    created: "2026-11-16T19:33:47.197445559Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: fedb3b76b789693ce903e29ba3e3c8c9e8022937dac68951b2717bc03ee99c85
     home: https://docs.kuberocketci.io/
@@ -24090,7 +24090,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.37.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.91239157Z"
+    created: "2026-11-16T19:33:47.196322202Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 2e8a4173370500a0764b87f19c6e238b96549dd0d3e8506a4a136dcc1453a757
     home: https://docs.kuberocketci.io/
@@ -24454,7 +24454,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.36.0-SNAPSHOT.103
-    created: "2026-11-16T19:16:24.909526683Z"
+    created: "2026-11-16T19:33:47.194012717Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 7704586bf8671007e6609580f961c9759d1100765c7b29809d297b8e01af9e60
     home: https://docs.kuberocketci.io/
@@ -24818,7 +24818,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.36.0-SNAPSHOT.102
-    created: "2026-11-16T19:16:24.908404276Z"
+    created: "2026-11-16T19:33:47.192237465Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: d285ddfe4f88fec257ae18929c304e3741d4ebe8db6a53603d1f6b27135330ce
     home: https://docs.kuberocketci.io/
@@ -25182,7 +25182,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.36.0-SNAPSHOT.101
-    created: "2026-11-16T19:16:24.907290159Z"
+    created: "2026-11-16T19:33:47.191172468Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 7a2eefcf96ef27e8b66589f535247756ddd0eae24bb64013e1fd7450a946b950
     home: https://docs.kuberocketci.io/
@@ -25546,7 +25546,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.36.0-SNAPSHOT.100
-    created: "2026-11-16T19:16:24.906132092Z"
+    created: "2026-11-16T19:33:47.190080281Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 52f0b4a02cd0c0593d9b4faa8f4997bf52f8aa264ec9f9d996e4c00c1ea6d29a
     home: https://docs.kuberocketci.io/
@@ -25910,7 +25910,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.36.0-SNAPSHOT.99
-    created: "2026-11-16T19:16:24.911243323Z"
+    created: "2026-11-16T19:33:47.195183744Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: a2d6371e3447d0f750c6b1ec7e43cd448b7acb718b0fe8e303d5700232229775
     home: https://docs.kuberocketci.io/
@@ -26274,7 +26274,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.35.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.901313793Z"
+    created: "2026-11-16T19:33:47.185313041Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 9eab58abfb7201ad2674e23b67185c1235d1174d25481a9446e92c8e730a9cce
     home: https://docs.kuberocketci.io/
@@ -26637,7 +26637,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.35.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.900294237Z"
+    created: "2026-11-16T19:33:47.184318314Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 2af28468cacc1dbcba9bfeaa98dcfaf0cdba59a83a197af05489bcfb7386a456
     home: https://docs.kuberocketci.io/
@@ -27000,7 +27000,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.35.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.904262591Z"
+    created: "2026-11-16T19:33:47.188905844Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 8c52ff75a59bd0ed5fac29de83ce1ef5daa8916b1ce029c8cd71a17e69d77b57
     home: https://docs.kuberocketci.io/
@@ -27363,7 +27363,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.35.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.903286105Z"
+    created: "2026-11-16T19:33:47.187244363Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 79a7c0235670e93a91be52dfee286886d6ca799eb99bcd2abf7c93356c77d577
     home: https://docs.kuberocketci.io/
@@ -27726,7 +27726,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.35.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.902306679Z"
+    created: "2026-11-16T19:33:47.186273077Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: d1753a65d632444ca7a313e6cf4f1babc6a9ae59b5997b36a43f3745bc5e0d07
     home: https://docs.kuberocketci.io/
@@ -28040,7 +28040,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.34.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.898680707Z"
+    created: "2026-11-16T19:33:47.183332408Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 896d67e3dbffeaea040eb36c3953827b65aef30c4c8229049ac29fe40ded9432
     home: https://docs.kuberocketci.io/
@@ -28354,7 +28354,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.34.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.897742251Z"
+    created: "2026-11-16T19:33:47.181790228Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: ff59f0844b3b8f10d7e68852bc5815859d6cd49a21b8f59d2635c5af99298c80
     home: https://docs.kuberocketci.io/
@@ -28668,7 +28668,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.34.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.896800695Z"
+    created: "2026-11-16T19:33:47.180829112Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 72991d59e90f1839a84a03ae5f1eb5d4bc387d96a1f32a057a46b7e4299ea57d
     home: https://docs.kuberocketci.io/
@@ -28982,7 +28982,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.34.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.895849779Z"
+    created: "2026-11-16T19:33:47.179884176Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: b81d46c55a5a9f80a53ab30e08e0ab5e66c58647e91ea42595c64af7d56611db
     home: https://docs.kuberocketci.io/
@@ -29296,7 +29296,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.33.0-SNAPSHOT.58
-    created: "2026-11-16T19:16:24.894777753Z"
+    created: "2026-11-16T19:33:47.178920399Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: f0a8f8843ae58392b4ea4e6a043da2e893029b5c5d32aeb5671e162b876e2ddd
     home: https://docs.kuberocketci.io/
@@ -29610,7 +29610,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.33.0-SNAPSHOT.57
-    created: "2026-11-16T19:16:24.893172493Z"
+    created: "2026-11-16T19:33:47.177930333Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 0ea1476882b85e919e0d2a2730e2eb038b9a0e251625b24915835bb86dcc9018
     home: https://docs.kuberocketci.io/
@@ -29924,7 +29924,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.33.0-SNAPSHOT.55
-    created: "2026-11-16T19:16:24.892206967Z"
+    created: "2026-11-16T19:33:47.176358733Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 346cfa78987e41eedfb2d13aa550b260a29e1610f610d9238d90825d4edd9f44
     home: https://docs.kuberocketci.io/
@@ -30238,7 +30238,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.33.0-SNAPSHOT.54
-    created: "2026-11-16T19:16:24.891268131Z"
+    created: "2026-11-16T19:33:47.175425457Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 6b617a0c9438abfe610a9dde163655fb3de0dcd4b10db9c2c377fabc651c8a39
     home: https://docs.kuberocketci.io/
@@ -30552,7 +30552,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.33.0-SNAPSHOT.50
-    created: "2026-11-16T19:16:24.890343316Z"
+    created: "2026-11-16T19:33:47.174482341Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: 29a47095ccbab5019443bffcb6cde28ad766814c8f235d90c4fa71f084b3f00e
     home: https://docs.kuberocketci.io/
@@ -30866,7 +30866,7 @@ entries:
       artifacthub.io/operatorCapabilities: Deep Insights
     apiVersion: v2
     appVersion: 1.32.0-RC.1
-    created: "2026-11-16T19:16:24.88937522Z"
+    created: "2026-11-16T19:33:47.173527535Z"
     description: A Helm chart for KubeRocketCI Keycloak Operator
     digest: c6dad363aea26168eefd6d598910f433dfe7e4f5862aa61cd07c41c6a421575b
     home: https://docs.kuberocketci.io/
@@ -31134,7 +31134,7 @@ entries:
       artifacthub.io/operatorCapabilities: Auto Pilot
     apiVersion: v2
     appVersion: 1.11.0-MDTU-DDM-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.886537742Z"
+    created: "2026-11-16T19:33:47.170713817Z"
     description: A Helm chart for EDP Keycloak Operator
     digest: 447c0b6c262678af7c5154014a87e4f577aba5c415a4ea7f66b84d0d007e2d0d
     home: https://epam.github.io/edp-install/
@@ -31402,7 +31402,7 @@ entries:
       artifacthub.io/operatorCapabilities: Auto Pilot
     apiVersion: v2
     appVersion: 1.11.0-MDTU-DDM-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.88609961Z"
+    created: "2026-11-16T19:33:47.170260994Z"
     description: A Helm chart for EDP Keycloak Operator
     digest: 6c2cdf329fc3d1fd76e775c1feab0de1e51c05a3665d527b1b5ad6084c68755c
     home: https://epam.github.io/edp-install/
@@ -31670,7 +31670,7 @@ entries:
       artifacthub.io/operatorCapabilities: Auto Pilot
     apiVersion: v2
     appVersion: 1.11.0-MDTU-DDM-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.88780438Z"
+    created: "2026-11-16T19:33:47.172247247Z"
     description: A Helm chart for EDP Keycloak Operator
     digest: 4488bf1481a23f034fa4cfce33052c464f86bd23af61cd3d7856a2aaf134bbc1
     home: https://epam.github.io/edp-install/
@@ -31938,7 +31938,7 @@ entries:
       artifacthub.io/operatorCapabilities: Auto Pilot
     apiVersion: v2
     appVersion: 1.11.0-MDTU-DDM-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.887387977Z"
+    created: "2026-11-16T19:33:47.171578343Z"
     description: A Helm chart for EDP Keycloak Operator
     digest: cefa34e3f10c84917ff777a030568872ab147381c0099b0f5704ce4d23edd198
     home: https://epam.github.io/edp-install/
@@ -32206,7 +32206,7 @@ entries:
       artifacthub.io/operatorCapabilities: Auto Pilot
     apiVersion: v2
     appVersion: 1.11.0-MDTU-DDM-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.886966535Z"
+    created: "2026-11-16T19:33:47.17114164Z"
     description: A Helm chart for EDP Keycloak Operator
     digest: a06f3888e1b2e8335e1fdc3768f45ee06efd116cf90ade08de12e215067d78fb
     home: https://epam.github.io/edp-install/
@@ -32239,8 +32239,34 @@ entries:
   - annotations:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
+    appVersion: 0.1.0-SNAPSHOT.39
+    created: "2026-11-16T19:33:47.205038048Z"
+    description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
+      issue agents
+    digest: 30fa6136019d8d4317018f9f5bc8a143d559643100b139bdb2faf82e49d12605
+    home: https://docs.kuberocketci.io/
+    icon: https://docs.kuberocketci.io/img/logo.svg
+    keywords:
+    - edp
+    - kubernetes
+    - kuberocketci
+    - agents
+    maintainers:
+    - email: SupportEPMD-EDP@epam.com
+      name: epmd-edp
+      url: https://solutionshub.epam.com/solution/kuberocketci
+    name: krci-agent-dispatcher
+    sources:
+    - https://github.com/KubeRocketCI/krci-agent-dispatcher
+    type: application
+    urls:
+    - https://epam.github.io/edp-helm-charts/snapshot/packages/krci-agent-dispatcher-0.1.0-SNAPSHOT.39.tgz
+    version: 0.1.0-SNAPSHOT.39
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+    apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.38
-    created: "2026-11-16T19:16:24.920881652Z"
+    created: "2026-11-16T19:33:47.204746386Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: f3469d071a9216e59cc5b778880ab4faa9bc6d141a78941662472e3b273276d4
@@ -32266,7 +32292,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.37
-    created: "2026-11-16T19:16:24.92056999Z"
+    created: "2026-11-16T19:33:47.204452884Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: d07529f922b11fcfda4f669cacc5e824adb1bb8535bf45f0b40e75fdbbb65092
@@ -32292,7 +32318,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.36
-    created: "2026-11-16T19:16:24.920269878Z"
+    created: "2026-11-16T19:33:47.204151572Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: 1b03fa7047e09dafb6a7fe059347d02c0ef87dd9bb43bb71e77e9b28bbdd3c0f
@@ -32318,7 +32344,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.35
-    created: "2026-11-16T19:16:24.919969686Z"
+    created: "2026-11-16T19:33:47.20384639Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: dd52c7ea7a23cbe9e01cb9e675edd4ffc5f60abd4036262ff142e12dcaf8a715
@@ -32344,7 +32370,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.34
-    created: "2026-11-16T19:16:24.919675584Z"
+    created: "2026-11-16T19:33:47.203543548Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: 59f114d1b90b70674eeb1b5006a06e764aa47f743ed79a8737f82dc0ff81b017
@@ -32370,7 +32396,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.33
-    created: "2026-11-16T19:16:24.919369022Z"
+    created: "2026-11-16T19:33:47.203243726Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: b21cf3daf308e58ba84fde32d337b975d358d552c6e81fcbed1abe72267269f4
@@ -32396,7 +32422,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.32
-    created: "2026-11-16T19:16:24.91906266Z"
+    created: "2026-11-16T19:33:47.202952514Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: 41edcc44830d61bc2674515f631450610415b237c3b1a4a2e50e07bcf9e61f4b
@@ -32422,7 +32448,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.31
-    created: "2026-11-16T19:16:24.918781619Z"
+    created: "2026-11-16T19:33:47.202666012Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: 6d50fa62a154b259c3e8dd32ed918ce70771362e0098f7880826e979fb28904f
@@ -32448,7 +32474,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.30
-    created: "2026-11-16T19:16:24.918498887Z"
+    created: "2026-11-16T19:33:47.202367121Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: ffe874591bb9befbc6744dd6876b96e3d3a409dddef80c62fed7d04a9df27475
@@ -32474,7 +32500,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.28
-    created: "2026-11-16T19:16:24.918217715Z"
+    created: "2026-11-16T19:33:47.202076049Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: 7ad652292e089dc0b9463b611390e1315cc068c8a053cef9ceff395d9ae02e9e
@@ -32500,7 +32526,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.25
-    created: "2026-11-16T19:16:24.917935923Z"
+    created: "2026-11-16T19:33:47.201798077Z"
     description: A Helm chart for krci-agent-dispatcher, the dispatcher for KubeRocketCI
       issue agents
     digest: b0e689e20c9da739e52a1f16aad969c69a2e5409c94d1b4d636ebfe131cc6bd7
@@ -32542,7 +32568,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.927980175Z"
+    created: "2026-11-16T19:33:47.211897052Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 0da404d07d187c7ea1cc97cbe7ad850d202bb51b45f1ef9340e3f8473e47ca90
@@ -32583,7 +32609,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.930768612Z"
+    created: "2026-11-16T19:33:47.21475876Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 8c7d1628805fd6226a7202645f9f5f1f90f2b973b412209837fb7e95039f9b16
@@ -32624,7 +32650,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.929624895Z"
+    created: "2026-11-16T19:33:47.213541123Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 52eaf4dc44dc832da40165fc4c799213045080ee536533f385e916c02acd5dab
@@ -32665,7 +32691,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.929084152Z"
+    created: "2026-11-16T19:33:47.212952149Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 5f535ae139e7feafd4452945fb7651eeccde4b0c7c71f9679ea02faacd2e5af6
@@ -32706,7 +32732,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.928522498Z"
+    created: "2026-11-16T19:33:47.212422235Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 367109932af2cf4fe9f483bf2b2c4279a4676faf238023784a8e24213243f187
@@ -32747,7 +32773,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.925714331Z"
+    created: "2026-11-16T19:33:47.209655008Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: d236f0020d31038d8cfa03179cdf77e0b79daa4046d8a91c8d476757919a29e1
@@ -32788,7 +32814,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.925127378Z"
+    created: "2026-11-16T19:33:47.209084564Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: dd8e7720aba2724533a904cf73e05f4d9f82db3ebb1b6f2071eb5dddef092902
@@ -32829,7 +32855,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.927416252Z"
+    created: "2026-11-16T19:33:47.211356369Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 6ccad5098ad56b6f981a1fb5e15d969bfb2861c2dbc38162b308c6683bd5d920
@@ -32870,7 +32896,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.926862578Z"
+    created: "2026-11-16T19:33:47.210820135Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 43d9c414d890d7b4269b971f946109dad8378c38832acf3aaecbfe85785b4ca0
@@ -32911,7 +32937,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.926300125Z"
+    created: "2026-11-16T19:33:47.210257921Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 6460f4e4e39659179e522d1590ce47cab7ab32bd98900c72277fc74eb9759d92
@@ -32940,7 +32966,7 @@ entries:
           url: https://docs.kuberocketci.io
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.924425033Z"
+    created: "2026-11-16T19:33:47.20852902Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: b067cea9e41394f2c368a2f39015f075f7c6f813b9e691cabd394206a201242b
@@ -32969,7 +32995,7 @@ entries:
           url: https://docs.kuberocketci.io
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.92383165Z"
+    created: "2026-11-16T19:33:47.207963567Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 84edd39adf55c7fb0a1949545d96804a5c61a88b5e816f9570e928b2604af50a
@@ -32998,7 +33024,7 @@ entries:
           url: https://docs.kuberocketci.io
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.923169566Z"
+    created: "2026-11-16T19:33:47.207376053Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 57ccbe95d5bd71e06778bf8ff202c9350df111a175eab5bbfbd1ad95303c5c09
@@ -33027,7 +33053,7 @@ entries:
           url: https://docs.kuberocketci.io
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.921971478Z"
+    created: "2026-11-16T19:33:47.206779229Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: 9e1e1953e123e4bccf0c2fdb4018d47183bd6dfee4c365000e7bad5301467be6
@@ -33056,7 +33082,7 @@ entries:
           url: https://docs.kuberocketci.io
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.921411455Z"
+    created: "2026-11-16T19:33:47.205582561Z"
     description: A Helm chart for krci-audit — platform-agnostic Kubernetes admission
       audit capture & store
     digest: cbcf850c46f3da7eecd827f0170f82a5a7caa912d2ffc58e4a8479d549cc73b9
@@ -33088,7 +33114,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.932771214Z"
+    created: "2026-11-16T19:33:47.216943435Z"
     description: A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments
       that KEDA scaled to zero when they are accessed
     digest: 81704b23cf5ac07e838a60d452d2fbfcad582962476b4830490f7a8b65cc9bfe
@@ -33120,7 +33146,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.932490843Z"
+    created: "2026-11-16T19:33:47.216650103Z"
     description: A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments
       that KEDA scaled to zero when they are accessed
     digest: 0b5f03dbf0ca8c17d732e6370a305281afb699cd229878902d62c41f738b58ee
@@ -33152,7 +33178,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.932198531Z"
+    created: "2026-11-16T19:33:47.216333281Z"
     description: A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments
       that KEDA scaled to zero when they are accessed
     digest: f9dc05c98be306cae500761c97e662450aac482d7bd95c6f14ab153fbae0b354
@@ -33184,7 +33210,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.931935189Z"
+    created: "2026-11-16T19:33:47.216049989Z"
     description: A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments
       that KEDA scaled to zero when they are accessed
     digest: 522ac8df94395081897699a7cf3a611b3e8ebfcb0b2799623878a40578cda052
@@ -33216,7 +33242,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.931650008Z"
+    created: "2026-11-16T19:33:47.215751267Z"
     description: A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments
       that KEDA scaled to zero when they are accessed
     digest: f7ae8f52d11c75378b273e57d36c336330c12a4e99b692fadb575af20e6ef6ee
@@ -33248,7 +33274,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.931371906Z"
+    created: "2026-11-16T19:33:47.215459055Z"
     description: A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments
       that KEDA scaled to zero when they are accessed
     digest: cda55784300c03712c8a70c7a3b473227a66981e8a6a12e4ea6b6cf95348a4f9
@@ -33280,7 +33306,7 @@ entries:
           url: https://solutionshub.epam.com/solution/kuberocketci
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.931081504Z"
+    created: "2026-11-16T19:33:47.215131973Z"
     description: A Helm chart for krci-env-daemon, which wakes KubeRocketCI environments
       that KEDA scaled to zero when they are accessed
     digest: 556c763a7cbd460510d92df9a1b5a028bbbd717b7c96d475894ca7710b63e18d
@@ -33318,7 +33344,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.11.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.941071255Z"
+    created: "2026-11-16T19:33:47.225451819Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: a9f04f56107317e8fce3ef5b615391012f45bb9135877b85a38599b84cb69b47
     home: https://docs.kuberocketci.io/
@@ -33354,7 +33380,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.11.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.940556822Z"
+    created: "2026-11-16T19:33:47.224868276Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: eeeaf167711ca7eb8c89bd184694d7754df37ac6b3a4e52ab0540eb58b8d2ad9
     home: https://docs.kuberocketci.io/
@@ -33390,7 +33416,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.11.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.940017409Z"
+    created: "2026-11-16T19:33:47.224319412Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 99f5b04c13a00d2c7657e6a2e33cc4e29b8a789ed61c6fbcff44abdb793a335c
     home: https://docs.kuberocketci.io/
@@ -33426,7 +33452,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.11.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.939478276Z"
+    created: "2026-11-16T19:33:47.223768599Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 5923da61aa08431cf98670f4bd6c4cab752f87c90bdd88a55e612d492fd88f9d
     home: https://docs.kuberocketci.io/
@@ -33462,7 +33488,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.11.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.938940272Z"
+    created: "2026-11-16T19:33:47.223156445Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 7536b00801c95557d4d9a8b7b5140f116e6e6e8ce40979e53d6b318c6b686727
     home: https://docs.kuberocketci.io/
@@ -33498,7 +33524,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.10.0-SNAPSHOT.17
-    created: "2026-11-16T19:16:24.938345729Z"
+    created: "2026-11-16T19:33:47.222105828Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 55f3a794746a1d5074be0eabd20bc998d87c8b281adbb3d0a4585deff65c48f6
     home: https://docs.kuberocketci.io/
@@ -33534,7 +33560,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.10.0-SNAPSHOT.16
-    created: "2026-11-16T19:16:24.937049971Z"
+    created: "2026-11-16T19:33:47.221431584Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 10b3a27557edc11bedd062d02a5c59a0a17d2a4024f776a6c9116f4564cd2c89
     home: https://docs.kuberocketci.io/
@@ -33570,7 +33596,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.10.0-SNAPSHOT.15
-    created: "2026-11-16T19:16:24.936520128Z"
+    created: "2026-11-16T19:33:47.22088069Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: cc56fa2c7ffe36edf4eeba60b0964cd9bb376057045e9b89f5425f450c6a1d6f
     home: https://docs.kuberocketci.io/
@@ -33606,7 +33632,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.10.0-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.935992244Z"
+    created: "2026-11-16T19:33:47.220340606Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 80404560bd628dc23e642c46b2042300f7f584ca75b60d1e75d061c20cce1b75
     home: https://docs.kuberocketci.io/
@@ -33642,7 +33668,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.10.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.935441921Z"
+    created: "2026-11-16T19:33:47.219702692Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 04c55f4c0addcd7d16148495872e386408a982b99c6249c3a78f365d9bd1f3d8
     home: https://docs.kuberocketci.io/
@@ -33678,7 +33704,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.9.0-SNAPSHOT.52
-    created: "2026-11-16T19:16:24.958697644Z"
+    created: "2026-11-16T19:33:47.243605527Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: d34f8c0bc42d3e17b9e7e9ca496e20e8a1424e8f8311068b07162b568c5b8363
     home: https://docs.kuberocketci.io/
@@ -33714,7 +33740,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.9.0-SNAPSHOT.51
-    created: "2026-11-16T19:16:24.958208811Z"
+    created: "2026-11-16T19:33:47.243070193Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: f5279e1d62b4d11e35cff8e74ba01c1eb327474faa46ecb313cf10f8b5503e5a
     home: https://docs.kuberocketci.io/
@@ -33750,7 +33776,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.9.0-SNAPSHOT.50
-    created: "2026-11-16T19:16:24.957719628Z"
+    created: "2026-11-16T19:33:47.24257946Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 64d6c2113ccb4a6fa50ed7602d9e381824883d423976d6432ff51b6a0a8fe0b6
     home: https://docs.kuberocketci.io/
@@ -33786,7 +33812,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.9.0-SNAPSHOT.49
-    created: "2026-11-16T19:16:24.957219305Z"
+    created: "2026-11-16T19:33:47.242079167Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: b0194cc5a7edbc849c69d7ecbdd6a7c4f130ec8d2b3ebe1a715c8e79461f2d56
     home: https://docs.kuberocketci.io/
@@ -33822,7 +33848,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.9.0-SNAPSHOT.48
-    created: "2026-11-16T19:16:24.956734952Z"
+    created: "2026-11-16T19:33:47.241547883Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: c566ef824ca743381ddbb0e2cea2d69f805eca82537246e8449336e152c7f99c
     home: https://docs.kuberocketci.io/
@@ -33858,7 +33884,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.16
-    created: "2026-11-16T19:16:24.956229209Z"
+    created: "2026-11-16T19:33:47.24102638Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: c6288ad2acbc19908a901aca112a89c8b34dc34f5f5922e93341ef400a2e9840
     home: https://docs.kuberocketci.io/
@@ -33894,7 +33920,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.15
-    created: "2026-11-16T19:16:24.955741236Z"
+    created: "2026-11-16T19:33:47.240475576Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 16228d139ffa99850efcd4f687d432c6ad1808d9dea5841ffb5442f9968a393a
     home: https://docs.kuberocketci.io/
@@ -33930,7 +33956,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.14
-    created: "2026-11-16T19:16:24.955246812Z"
+    created: "2026-11-16T19:33:47.239905883Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 2166145b1cd93a3e6ca28e0c816acc67c21441e8592186e37f52f8b5e16eaa93
     home: https://docs.kuberocketci.io/
@@ -33966,7 +33992,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.954717849Z"
+    created: "2026-11-16T19:33:47.238962657Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: e45ecb8bf6b003eba26d21eff94fcb19ea00c76d8367f9199d444f5b5c840e62
     home: https://docs.kuberocketci.io/
@@ -34002,7 +34028,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.8.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.954158406Z"
+    created: "2026-11-16T19:33:47.238114451Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 07e845ba98d97b33ca21f74c222bb60f0dee3942b91c6b60631c661ce07d6389
     home: https://docs.kuberocketci.io/
@@ -34038,7 +34064,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.7.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.953015779Z"
+    created: "2026-11-16T19:33:47.237622518Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 2b4dfa1aea2aa2a6215d3d5b44a5ec2bf4bed19b2899ec23828365210eef19ea
     home: https://docs.kuberocketci.io/
@@ -34074,7 +34100,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.7.0-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.952463895Z"
+    created: "2026-11-16T19:33:47.237178555Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 84e4c8a844a738c263387671e267e3c98f33bbadbeec14fe7c1162c6e86034fa
     home: https://docs.kuberocketci.io/
@@ -34110,7 +34136,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.7.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.952037113Z"
+    created: "2026-11-16T19:33:47.236751752Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 340e4d0c1267f724f0e927e17f1bdf3bc0abf9ef012937e6ad1758d2926e7b1f
     home: https://docs.kuberocketci.io/
@@ -34146,7 +34172,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.49
-    created: "2026-11-16T19:16:24.9516034Z"
+    created: "2026-11-16T19:33:47.2363259Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 55d969a563b8bd080ba042b04443d892a75a8db6db964972ad12d9207e178f43
     home: https://docs.kuberocketci.io/
@@ -34182,7 +34208,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.48
-    created: "2026-11-16T19:16:24.951175607Z"
+    created: "2026-11-16T19:33:47.235878697Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 9dd4781ce2282db5afdc61b0faafb801433ca876b210f4d2a809b7bb2d88c3a8
     home: https://docs.kuberocketci.io/
@@ -34218,7 +34244,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.47
-    created: "2026-11-16T19:16:24.950752495Z"
+    created: "2026-11-16T19:33:47.235447804Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 66e0073b0bbb6c7398b3d50a13052fea15110f2a7953674a008f28a63b021d0d
     home: https://docs.kuberocketci.io/
@@ -34254,7 +34280,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.46
-    created: "2026-11-16T19:16:24.950317862Z"
+    created: "2026-11-16T19:33:47.234991371Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 5771657854d56d063fce55b6afe9e706c45e7eaf474b54754ac827a5b61cd6e4
     home: https://docs.kuberocketci.io/
@@ -34290,7 +34316,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.6.0-SNAPSHOT.45
-    created: "2026-11-16T19:16:24.9498906Z"
+    created: "2026-11-16T19:33:47.234549468Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 318e6067a9079e934bcfd5021366716ba566a5aa8bc636d561edde8fed2448aa
     home: https://docs.kuberocketci.io/
@@ -34326,7 +34352,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.40
-    created: "2026-11-16T19:16:24.949451947Z"
+    created: "2026-11-16T19:33:47.234093815Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 458a1d8e5af10647b0b0613219324d71da94c336c4456ac691313bc03e329f36
     home: https://docs.kuberocketci.io/
@@ -34362,7 +34388,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.39
-    created: "2026-11-16T19:16:24.949061575Z"
+    created: "2026-11-16T19:33:47.233703113Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 609cf79e5e8e648c7656ce15425acdd09ce67b76979ed18fc4d1458f27c6cd27
     home: https://docs.kuberocketci.io/
@@ -34398,7 +34424,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.38
-    created: "2026-11-16T19:16:24.948669772Z"
+    created: "2026-11-16T19:33:47.23329615Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 635d1e2c9a2fdce3016a632d21e8df17a9d2669ae0d54d967a548456913a2642
     home: https://docs.kuberocketci.io/
@@ -34434,7 +34460,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.37
-    created: "2026-11-16T19:16:24.94828863Z"
+    created: "2026-11-16T19:33:47.232892537Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 8aa8366a47f4ffea977791a6d9dfc3f010ae48a47cffa6a287628036e2d9395e
     home: https://docs.kuberocketci.io/
@@ -34470,7 +34496,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.5.0-SNAPSHOT.36
-    created: "2026-11-16T19:16:24.947876357Z"
+    created: "2026-11-16T19:33:47.232475735Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 66472f87fd76a3487765f6b51ad3962237aeb12b91bf8086f735a4f282402c01
     home: https://docs.kuberocketci.io/
@@ -34506,7 +34532,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.9466975Z"
+    created: "2026-11-16T19:33:47.231145076Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 0bc6092178706eb76af67e169509a088c5f417b9ffc8e6323d7cd20df0148c6b
     home: https://docs.kuberocketci.io/
@@ -34542,7 +34568,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.946255787Z"
+    created: "2026-11-16T19:33:47.230038699Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 7c5dbea4152ff136930b19941e2e7358a87e60d6a4ade978c0b41a68353b1fa6
     home: https://docs.kuberocketci.io/
@@ -34578,7 +34604,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.945346362Z"
+    created: "2026-11-16T19:33:47.229663587Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: a46fec4a9fba5b3b2148951fc764ef5b0d8cff906fe5dbaece100132627b3204
     home: https://docs.kuberocketci.io/
@@ -34614,7 +34640,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.947478705Z"
+    created: "2026-11-16T19:33:47.232045072Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: dfc0b67e1b6049e653bb7c622d5cedd75e49a1d36817a2cb2ad8f198414cd206
     home: https://docs.kuberocketci.io/
@@ -34650,7 +34676,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.4.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.947090262Z"
+    created: "2026-11-16T19:33:47.231619409Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: fe709f6856df6a6c997c0378e8bc99a223d7215715328a5553edc117e82f4f60
     home: https://docs.kuberocketci.io/
@@ -34686,7 +34712,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.944733818Z"
+    created: "2026-11-16T19:33:47.229294444Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: af95cd3d356dd7ff63b1071600a49b45fd131570ae4fd0d95f4189a820666bf8
     home: https://docs.kuberocketci.io/
@@ -34722,7 +34748,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.944375516Z"
+    created: "2026-11-16T19:33:47.228937412Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: a24b633c7d77bbf8947cb00e0f9e6906c77102bf561a684ec7d674330c922c4d
     home: https://docs.kuberocketci.io/
@@ -34758,7 +34784,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.944009633Z"
+    created: "2026-11-16T19:33:47.228556189Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 8e731b66fd338d7331039c3fa01bd2512df9c16943f83be0e9d559e683a42aea
     home: https://docs.kuberocketci.io/
@@ -34794,7 +34820,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.943653971Z"
+    created: "2026-11-16T19:33:47.228180287Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 46b7a9294228ac7adbdf988b6014f35ebb1a638503839762f13b32674aa27b62
     home: https://docs.kuberocketci.io/
@@ -34830,7 +34856,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.4
-    created: "2026-11-16T19:16:24.943300379Z"
+    created: "2026-11-16T19:33:47.227811445Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 7edf57b047946b6fe3c274d0c99dfc19e8788e27e4ccc98be53de43176cb521d
     home: https://docs.kuberocketci.io/
@@ -34866,7 +34892,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.942578095Z"
+    created: "2026-11-16T19:33:47.22703342Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 4ec837bfe8ea91c740ad3b314a7c293639d59e8efd0495668e5819ea853b7e19
     home: https://docs.kuberocketci.io/
@@ -34902,7 +34928,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.942206652Z"
+    created: "2026-11-16T19:33:47.226642827Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 85d027cac649ce0058aee1b440773df4ba8c9bc6658705fdcb2b29a7787d9b48
     home: https://docs.kuberocketci.io/
@@ -34938,7 +34964,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.94183504Z"
+    created: "2026-11-16T19:33:47.226261695Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 91d421938f14ee4a11ca682170bed8257600c282aee701dcc2df7e8464c23894
     home: https://docs.kuberocketci.io/
@@ -34974,7 +35000,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.941451668Z"
+    created: "2026-11-16T19:33:47.225852622Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: 4ca280ccbd3c44c6f344f9771da81328a240309732399627bc7f7f0a7426086b
     home: https://docs.kuberocketci.io/
@@ -35010,7 +35036,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.2.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.942941267Z"
+    created: "2026-11-16T19:33:47.227425112Z"
     description: A Helm chart for KubeRocketCI Portal
     digest: cd6f383ad5b38627b5b0ce2483bd5fe4b208f85a691ee94de5e09e365a3d9a82
     home: https://docs.kuberocketci.io/
@@ -35034,7 +35060,7 @@ entries:
     version: 0.2.0-SNAPSHOT.9
   - apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.205
-    created: "2026-11-16T19:16:24.934883317Z"
+    created: "2026-11-16T19:33:47.219134689Z"
     description: A Helm chart for Kubernetes
     digest: fea47f99a957d08e858da3fdd3b81222b615ddbd67d0a45f996c1f307e0f2334
     home: https://github.com/epmd-edp/other-npm-krci-portal.git
@@ -35049,7 +35075,7 @@ entries:
     version: 0.1.0-SNAPSHOT.205
   - apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.203
-    created: "2026-11-16T19:16:24.934545865Z"
+    created: "2026-11-16T19:33:47.218792746Z"
     description: A Helm chart for Kubernetes
     digest: 9cd7735c20e096b4a39fd09ee55648d1934c9dc8f81cb9fdc7857b6ba19f850b
     home: https://github.com/epmd-edp/other-npm-krci-portal.git
@@ -35064,7 +35090,7 @@ entries:
     version: 0.1.0-SNAPSHOT.203
   - apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.202
-    created: "2026-11-16T19:16:24.934188673Z"
+    created: "2026-11-16T19:33:47.218435404Z"
     description: A Helm chart for Kubernetes
     digest: ce74f4036f7f44ebd143bab9591f389015f88f23c496ea74294ba75a2a82dae4
     home: https://github.com/epmd-edp/other-npm-krci-portal.git
@@ -35079,7 +35105,7 @@ entries:
     version: 0.1.0-SNAPSHOT.202
   - apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.201
-    created: "2026-11-16T19:16:24.933847881Z"
+    created: "2026-11-16T19:33:47.218071412Z"
     description: A Helm chart for Kubernetes
     digest: 18450ac30b34eb19adf6a9f34f2a5e7b6cd762902545aa04b90c4f88bfa26ad4
     home: https://github.com/epmd-edp/other-npm-krci-portal.git
@@ -35094,7 +35120,7 @@ entries:
     version: 0.1.0-SNAPSHOT.201
   - apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.200
-    created: "2026-11-16T19:16:24.933491079Z"
+    created: "2026-11-16T19:33:47.217700569Z"
     description: A Helm chart for Kubernetes
     digest: 8e2adae39c3377273dd83088ea302aa1275d44f3927ebbc0bc4cff191c3c62db
     home: https://github.com/epmd-edp/other-npm-krci-portal.git
@@ -35109,7 +35135,7 @@ entries:
     version: 0.1.0-SNAPSHOT.200
   - apiVersion: v2
     appVersion: 0.1.0-RC.1
-    created: "2026-11-16T19:16:24.933125157Z"
+    created: "2026-11-16T19:33:47.217328427Z"
     description: A Helm chart for Kubernetes
     digest: 0c7e8d38ce8d2185ff929b1c74bd80a1fb522c17bfe9f42c16115d2292cd2868
     home: https://github.com/epmd-edp/other-npm-krci-portal.git
@@ -35137,7 +35163,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.958961605Z"
+    created: "2026-11-16T19:33:47.243899068Z"
     description: A Helm chart for the KubeRocketCI Security Operator
     digest: 89607125447113a089c24dcde1c63044ad8553aeb4577b5205b08ddf2e4a54f3
     home: https://docs.kuberocketci.io/
@@ -35224,7 +35250,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.8.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.968628845Z"
+    created: "2026-11-16T19:33:47.253870823Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: d41fdb19ab7041ea9969e97f56952b23af903db8e4928d138054d1a904af7366
     home: https://docs.kuberocketci.io/
@@ -35314,7 +35340,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.8.0-SNAPSHOT.5
-    created: "2026-11-16T19:16:24.968112381Z"
+    created: "2026-11-16T19:33:47.253344639Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 3b17c90b7d8915b93b9c51ea4737cedb41a3d057fb84e81fab53270968267f10
     home: https://docs.kuberocketci.io/
@@ -35404,7 +35430,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.8.0-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.967598308Z"
+    created: "2026-11-16T19:33:47.252812526Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 108e6753537533ae2f6087fa2a7745d79dee94582116b7d3c83fa0f433f66063
     home: https://docs.kuberocketci.io/
@@ -35494,7 +35520,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.7.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.964297948Z"
+    created: "2026-11-16T19:33:47.249356794Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: e899149fdab9dd072b178f175e6ffbb5f4dcde954da5f966ffc485aa8e6978c6
     home: https://docs.kuberocketci.io/
@@ -35584,7 +35610,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.7.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.967066295Z"
+    created: "2026-11-16T19:33:47.252248922Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 24e6c5f4dc88e7c319f3f99a7ae17b3e5421c0657380d166c45f1effc77351fd
     home: https://docs.kuberocketci.io/
@@ -35674,7 +35700,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.7.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.966542962Z"
+    created: "2026-11-16T19:33:47.251699289Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 5f847e6ea5856eb5777a55a9fc0ad0a666e5caf7a9dc36c2f4d697ab5ab0fbf5
     home: https://docs.kuberocketci.io/
@@ -35764,7 +35790,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.7.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.966016339Z"
+    created: "2026-11-16T19:33:47.250570451Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: d87256c1b182f7d5a435a5fb97dc9aacd4cca933d19077d352f3b8e211af306a
     home: https://docs.kuberocketci.io/
@@ -35854,7 +35880,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.7.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.965041793Z"
+    created: "2026-11-16T19:33:47.249985968Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 3f7a7f54e53db71fc5bae4b1f5958eae5648cd5a1e3056d4850709ba04fad33e
     home: https://docs.kuberocketci.io/
@@ -35944,7 +35970,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.6.0-SNAPSHOT.24
-    created: "2026-11-16T19:16:24.963723095Z"
+    created: "2026-11-16T19:33:47.24878267Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 0f527f1298eb5951043cffa10a9751bd09e04d01fdafeb064201cefc5da89b47
     home: https://docs.kuberocketci.io/
@@ -36034,7 +36060,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.6.0-SNAPSHOT.23
-    created: "2026-11-16T19:16:24.963156031Z"
+    created: "2026-11-16T19:33:47.248221546Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 3991d1ee781eccd52086cf7054d7bbfa9194e3e19f74cbaf533f644b055b13e1
     home: https://docs.kuberocketci.io/
@@ -36124,7 +36150,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.6.0-SNAPSHOT.22
-    created: "2026-11-16T19:16:24.962599048Z"
+    created: "2026-11-16T19:33:47.247704813Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: ea59c0b56d96b24996d759715cb9e202cc7c42da43f74e5e97824c4f561d3bed
     home: https://docs.kuberocketci.io/
@@ -36214,7 +36240,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.6.0-SNAPSHOT.21
-    created: "2026-11-16T19:16:24.962081194Z"
+    created: "2026-11-16T19:33:47.247146279Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 161480da9adea5eb64bc8442e830f8c3dfcd6ed365342de5478ad4fcefe3472a
     home: https://docs.kuberocketci.io/
@@ -36304,7 +36330,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.6.0-SNAPSHOT.19
-    created: "2026-11-16T19:16:24.961531531Z"
+    created: "2026-11-16T19:33:47.245883221Z"
     description: A Helm chart for KubeRocketCI Nexus Operator
     digest: 190857659351287b40c8cb2f3bc1cceb8d7b72420297c0b826872e11626492dd
     home: https://docs.kuberocketci.io/
@@ -36384,7 +36410,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.3
-    created: "2026-11-16T19:16:24.960294453Z"
+    created: "2026-11-16T19:33:47.245312098Z"
     description: A Helm chart for EDP Nexus Operator
     digest: 1c99a5e85bb5099e085024acfb3a3aecb4335f79a83a61ae9b2d14b2b16782f3
     home: https://epam.github.io/edp-install/
@@ -36464,7 +36490,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.2
-    created: "2026-11-16T19:16:24.959858581Z"
+    created: "2026-11-16T19:33:47.244843895Z"
     description: A Helm chart for EDP Nexus Operator
     digest: 95cf9c1f1e69527f44e1a941a03efa4ea850e054e197c503ed668a4619044b8b
     home: https://epam.github.io/edp-install/
@@ -36544,7 +36570,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 2.11.0-MDTU-DDM-SNAPSHOT.1
-    created: "2026-11-16T19:16:24.959415068Z"
+    created: "2026-11-16T19:33:47.244373311Z"
     description: A Helm chart for EDP Nexus Operator
     digest: 182bd2e1d72570a5c6d90413b0435814581b43a43f5fe6df23a89a7d477249d0
     home: https://epam.github.io/edp-install/
@@ -36711,7 +36737,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.5.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.972223077Z"
+    created: "2026-11-16T19:33:47.257317105Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: 7114e8b124051482f79b459b454832f5ad54755288ecd67648d21692995ef03c
     home: https://docs.kuberocketci.io/
@@ -36876,7 +36902,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.5.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.971843894Z"
+    created: "2026-11-16T19:33:47.256936822Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: 1d0cc1f2edc138d65797fcf55f67b2ab5c09a685e347ad96051658f0b967b2b2
     home: https://docs.kuberocketci.io/
@@ -37041,7 +37067,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.5.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.973759316Z"
+    created: "2026-11-16T19:33:47.258840445Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: 638508ee106056362587ed5331f678cfc9b469785385debedf8926ba0989a4f8
     home: https://docs.kuberocketci.io/
@@ -37206,7 +37232,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.5.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.973374804Z"
+    created: "2026-11-16T19:33:47.258451032Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: 2176700e803c3ae4a553c607e58f709731ae6afaacb4ae1920ea97995241a2b6
     home: https://docs.kuberocketci.io/
@@ -37371,7 +37397,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.5.0-SNAPSHOT.7
-    created: "2026-11-16T19:16:24.972984151Z"
+    created: "2026-11-16T19:33:47.25807776Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: 0ac20d8c0ea27127c0593b8e1b1f72172b55b10130007c54bf2a5b5675079065
     home: https://docs.kuberocketci.io/
@@ -37536,7 +37562,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.5.0-SNAPSHOT.6
-    created: "2026-11-16T19:16:24.972610259Z"
+    created: "2026-11-16T19:33:47.257704927Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: 71edcc8137debb0c4399e394a0bf44b7a73d2909048b0090d5329e6e6d70638f
     home: https://docs.kuberocketci.io/
@@ -37701,7 +37727,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.4.0-SNAPSHOT.26
-    created: "2026-11-16T19:16:24.971450362Z"
+    created: "2026-11-16T19:33:47.25653112Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: b232404e7428aff39832ccc0cbb8a32082a41c3bcd15dca27360403d1abb706b
     home: https://docs.kuberocketci.io/
@@ -37866,7 +37892,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.4.0-SNAPSHOT.25
-    created: "2026-11-16T19:16:24.971043169Z"
+    created: "2026-11-16T19:33:47.256118587Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: cfe47815a3a5ae228e9db424792746873b4170a25cc8bc6259f53bd0c0e3a1a9
     home: https://docs.kuberocketci.io/
@@ -38031,7 +38057,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.4.0-SNAPSHOT.24
-    created: "2026-11-16T19:16:24.970650457Z"
+    created: "2026-11-16T19:33:47.255506223Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: f2850514c0b3e442d123b0089a5afe23ffe3422b8e5bf01667146787353130a2
     home: https://docs.kuberocketci.io/
@@ -38196,7 +38222,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.4.0-SNAPSHOT.21
-    created: "2026-11-16T19:16:24.970224174Z"
+    created: "2026-11-16T19:33:47.254680158Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: 49f5976a22a8ee14526abbc1158a85659d3869894d448c5613f5d2b7c1739be6
     home: https://docs.kuberocketci.io/
@@ -38361,7 +38387,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 3.4.0-SNAPSHOT.20
-    created: "2026-11-16T19:16:24.969384849Z"
+    created: "2026-11-16T19:33:47.254264515Z"
     description: A Helm chart for KubeRocketCI Sonar Operator
     digest: c8bef8d46b09820df306106ad6f3bc5a446e4f573510aa742face640119b4606
     home: https://docs.kuberocketci.io/
@@ -38413,7 +38439,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.39
-    created: "2026-11-16T19:16:24.976160521Z"
+    created: "2026-11-16T19:33:47.261439522Z"
     description: A Helm chart for Tekton Custom Tasks
     digest: f66d52ce2fd184e8ef95bd241f7a765fb36c6d32ae82fed22e5fd711fbf97717
     home: https://docs.kuberocketci.io/
@@ -38465,7 +38491,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.38
-    created: "2026-11-16T19:16:24.975935529Z"
+    created: "2026-11-16T19:33:47.260479175Z"
     description: A Helm chart for Tekton Custom Tasks
     digest: bb22fc6d569724afa07db057daaaba630fa022cac05c360d182dadf651c337f9
     home: https://docs.kuberocketci.io/
@@ -38517,7 +38543,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.37
-    created: "2026-11-16T19:16:24.975688598Z"
+    created: "2026-11-16T19:33:47.260117723Z"
     description: A Helm chart for Tekton Custom Tasks
     digest: 42af61780f9d9cd1be66242f4324ff215d80311c4ef3fc35d6a5eab2388cbe93
     home: https://docs.kuberocketci.io/
@@ -38569,7 +38595,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.36
-    created: "2026-11-16T19:16:24.975136705Z"
+    created: "2026-11-16T19:33:47.259855801Z"
     description: A Helm chart for Tekton Custom Tasks
     digest: b880025f2093a43ed93f017431911a45a5db67107b73496e9dff060954c61ff6
     home: https://docs.kuberocketci.io/
@@ -38621,7 +38647,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.35
-    created: "2026-11-16T19:16:24.97445904Z"
+    created: "2026-11-16T19:33:47.25961174Z"
     description: A Helm chart for Tekton Custom Tasks
     digest: a8f3f37b546c4a9e12e709387c462b20edbada301cd2c2fb585e59f47fae7eef
     home: https://docs.kuberocketci.io/
@@ -38673,7 +38699,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.3.0-SNAPSHOT.34
-    created: "2026-11-16T19:16:24.974230979Z"
+    created: "2026-11-16T19:33:47.259358668Z"
     description: A Helm chart for Tekton Custom Tasks
     digest: 89be4d81b857ead0e47bd6f5540cd9f1a7368564a72b87ef1dfe34357a077085
     home: https://docs.kuberocketci.io/
@@ -38725,7 +38751,7 @@ entries:
       artifacthub.io/operatorCapabilities: Full Lifecycle
     apiVersion: v2
     appVersion: 0.2.0-RC.1
-    created: "2026-11-16T19:16:24.973997558Z"
+    created: "2026-11-16T19:33:47.259084366Z"
     description: A Helm chart for Tekton Custom Tasks
     digest: 6b76ee636f6245f74fcd65d6ef9fd713d9e2542864ed813deb667651c23b2cf5
     home: https://docs.kuberocketci.io/
@@ -38809,7 +38835,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.14
-    created: "2026-11-16T19:16:24.97758449Z"
+    created: "2026-11-16T19:33:47.263103062Z"
     description: A Helm chart for the Tekton Pipeline Queue operator
     digest: 2f744f59e8116cba9ee2a2836c3d8ccfd3c16e854c5db7e99a01679e8bc1c71b
     home: https://docs.kuberocketci.io/
@@ -38890,7 +38916,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.13
-    created: "2026-11-16T19:16:24.977300698Z"
+    created: "2026-11-16T19:33:47.262806Z"
     description: A Helm chart for the Tekton Pipeline Queue operator
     digest: 37522ba4c52cc9f553307c967bde82f2d6066d2e25f05b5460038474faa7cb8c
     home: https://docs.kuberocketci.io/
@@ -38971,7 +38997,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.12
-    created: "2026-11-16T19:16:24.977029266Z"
+    created: "2026-11-16T19:33:47.262493408Z"
     description: A Helm chart for the Tekton Pipeline Queue operator
     digest: 016d43c2c06c31e030e888543e7b72d4bea47368640b6f7b4014b63200d6b52b
     home: https://docs.kuberocketci.io/
@@ -39052,7 +39078,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.11
-    created: "2026-11-16T19:16:24.976749044Z"
+    created: "2026-11-16T19:33:47.262161926Z"
     description: A Helm chart for the Tekton Pipeline Queue operator
     digest: 20862099ecaa77f8fead2830bcf1188c7a02a7e1f8ebc6b47f46e72e76a29605
     home: https://docs.kuberocketci.io/
@@ -39133,7 +39159,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.10
-    created: "2026-11-16T19:16:24.976453903Z"
+    created: "2026-11-16T19:33:47.261840864Z"
     description: A Helm chart for the Tekton Pipeline Queue operator
     digest: 110ecac08576bad23757e7b0bb27b5f900d3b631e60abecc0783a2897ab48a5f
     home: https://docs.kuberocketci.io/
@@ -39214,7 +39240,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.9
-    created: "2026-11-16T19:16:24.978136223Z"
+    created: "2026-11-16T19:33:47.263698616Z"
     description: A Helm chart for the Tekton Pipeline Queue operator
     digest: f969ce5f2d9d08b6f4bf13f8a31cda56ed0989b6c5ec5d0402a0ccd489069877
     home: https://docs.kuberocketci.io/
@@ -39295,7 +39321,7 @@ entries:
       artifacthub.io/operatorCapabilities: Basic Install
     apiVersion: v2
     appVersion: 0.1.0-SNAPSHOT.8
-    created: "2026-11-16T19:16:24.977857481Z"
+    created: "2026-11-16T19:33:47.263409994Z"
     description: A Helm chart for the Tekton Pipeline Queue operator
     digest: eca6c84d5aaeec3efc6b6405c64c5268746498fba27b41f6798db49786b6e0e1
     home: https://docs.kuberocketci.io/
@@ -39316,4 +39342,4 @@ entries:
     urls:
     - https://epam.github.io/edp-helm-charts/snapshot/packages/tekton-pipeline-queue-0.1.0-SNAPSHOT.8.tgz
     version: 0.1.0-SNAPSHOT.8
-generated: "2026-11-16T19:16:24.031320895Z"
+generated: "2026-11-16T19:33:46.310542914Z"
